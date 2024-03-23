@@ -332,4 +332,3 @@ class FRCNN(object):
 
         f.close()
         return 
-    

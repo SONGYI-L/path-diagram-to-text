@@ -1,4 +1,4 @@
-# path-diagram-to-text
+# Path Model Textualization of SEM Results based on Deep Learning
 
 ## The structures and text in the path diagrams are first recognized, and then the path diagrams are converted into triple as input for the pre-trained models. Then the BART model, Vicuna v1.1 and Vicuna v1.7 models are fine-tuned and the explanatory text of the path diagram is generated.
 

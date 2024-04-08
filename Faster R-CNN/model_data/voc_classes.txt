@@ -1,0 +1,7 @@
+measured variable
+latent variables
+left arrow
+right arrow
+correlation
+down arrow
+up arrow

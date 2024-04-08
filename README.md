@@ -1,6 +1,6 @@
 # Path Model Textualization of SEM Results based on Deep Learning
 
-## The structures and text in the path diagrams are first recognized, and then the path diagrams are converted into triple as input for the pre-trained models. Then the BART model, Vicuna v1.1 and Vicuna v1.7 models are fine-tuned and the explanatory text of the path diagram is generated.
+## The structures and text in the path diagrams are first recognized, and then the path diagrams are converted into triple as input for the pre-trained models. Then generate text with LLMs models.the BART model, Vicuna v1.1 and Vicuna v1.7 models are fine-tuned and the explanatory text of the path diagram is generated.
 
 ### Recognize structures and text in path diagrams  
 Using the Faster R-CNN（[fasterb](./Faster%20R-CNN/fasterb.ipynb)）to identify the different types of variables and relationships in the diagrams.   
@@ -14,4 +14,7 @@ The data used in OCR is addressed to：[OCR](https://drive.google.com/drive/fold
 Convert path diagrams into triple based on the identified location information to be used as input for the pre-trained models.  
 The data used in triple-make is addressed to：[triple make data](https://drive.google.com/drive/folders/11_IeStniuELiaVb5CMHKkATcUzlikTAq?usp=drive_link)
 
-### Text Generation with LLMs Model
+### Text Generation with LLMs Model  
+Fine-tuning BART model and generating the explanatory text from the path diagram([bart]()).  
+Fine-tuning Vicuna v1.1 and Vicuna v1.7 models and generating the explanatory text from the path diagram([vicuna](./Vicuna%20fine-tune/vicuna_finetune_generate.ipynb)).  
+

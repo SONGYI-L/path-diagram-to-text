@@ -8,7 +8,7 @@ The VOCdevkit data used in fasterb is addressed to：[VOCdevkit](https://drive.g
 The address of the model_path used for training in fasterb is: [model path](https://drive.google.com/file/d/1p4p4ggyRxQf6Lj71_lWvQR7x2oP27VWU/view?usp=drive_link)  
 To make predictions using own trained model you have to modify the model_path in [frcnn.py](./Faster%20R-CNN/frcnn.py)  
 Using PP-OCR v3 model（[ocr](./OCR/ocr.ipynb)）to  identify the entity names in the diagrams and numerical values that indicate the strength of the relationships.  
-
+The data used in OCR is addressed to：[OCR](https://drive.google.com/drive/folders/1zYbr7nK6TnTxJvXbI4u5pEhUzA6jZeds?usp=drive_link)
 
 ### Triple make
 Convert path diagrams into triple based on the identified location information to be used as input for the pre-trained models.

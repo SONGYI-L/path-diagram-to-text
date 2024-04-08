@@ -11,6 +11,7 @@ Using PP-OCR v3 model（[ocr](./OCR/ocr.ipynb)）to  identify the entity names i
 The data used in OCR is addressed to：[OCR](https://drive.google.com/drive/folders/1zYbr7nK6TnTxJvXbI4u5pEhUzA6jZeds?usp=drive_link)
 
 ### Triple make
-Convert path diagrams into triple based on the identified location information to be used as input for the pre-trained models.
+Convert path diagrams into triple based on the identified location information to be used as input for the pre-trained models.  
+The data used in triple-make is addressed to：[triple make data](https://drive.google.com/drive/folders/11_IeStniuELiaVb5CMHKkATcUzlikTAq?usp=drive_link)
 
 ### Text Generation with LLMs Model

@@ -18,5 +18,7 @@ The data used in triple-make is addressed to：[triple make data](https://drive.
 Fine-tuning BART model and generating the explanatory text from the path diagram([bart]()).  
 Fine-tuning Vicuna v1.1 and Vicuna v1.7 models and generating the explanatory text from the path diagram([vicuna](./Vicuna%20fine-tune/vicuna_finetune_generate.ipynb)).  
 The sem-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1--qxAbNLNBZCz6mfU7ufqKYVb1H8zppD?usp=drive_link)  
+The webnlg-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1QDriTnGETuUhuaUPWXDq3tAfarrrBH3x?usp=drive_link)  
+The sem and webnlg-both fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1AMc_WGhNUcS1j8wVCChwcxSLP_3porcu?usp=drive_link)  
 
 

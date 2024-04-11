@@ -15,7 +15,7 @@ Convert path diagrams into triple based on the identified location information t
 The data used in triple-make is addressed to：[triple make data](https://drive.google.com/drive/folders/11_IeStniuELiaVb5CMHKkATcUzlikTAq?usp=drive_link)
 
 ### Text Generation with LLMs Model  
-Fine-tuning BART model and generating the explanatory text from the path diagram([bart]()).  
+Fine-tuning BART model and generating the explanatory text from the path diagram([bart](./BART%20fine-tune/bart%20fine-tuning.ipynb)).  
 Fine-tuning Vicuna v1.1 and Vicuna v1.5 models and generating the explanatory text from the path diagram([vicuna](./Vicuna%20fine-tune/vicuna_finetune_generate.ipynb)).  
 The sem-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1--qxAbNLNBZCz6mfU7ufqKYVb1H8zppD?usp=drive_link)  
 The webnlg-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-webnlg](https://drive.google.com/drive/folders/1QDriTnGETuUhuaUPWXDq3tAfarrrBH3x?usp=drive_link)  

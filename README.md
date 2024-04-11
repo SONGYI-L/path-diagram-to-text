@@ -17,8 +17,8 @@ The data used in triple-make is addressed to：[triple make data](https://drive.
 ### Text Generation with LLMs Model  
 Fine-tuning BART model and generating the explanatory text from the path diagram([bart](./BART%20fine-tune/bart%20fine-tuning.ipynb)).  
 The sem-only fine-tuned BART model is [BART-sem](https://drive.google.com/drive/folders/1CCTphg1q12PZrqw1sbSdP45resW1eO7D?usp=drive_link)  
-The webnlg-only fine-tuned BART model is [BART-sem](https://drive.google.com/drive/folders/1eWQQB22gsAYUjJiosqO9JTfNaFHXf8WY?usp=drive_link)  
-The sem and webnlg-both fine-tuned BART model is [BART-sem](https://drive.google.com/drive/folders/18XzlxcZELF82bfaJbi_mUnNv6HwDdRXV?usp=drive_link)  
+The webnlg-only fine-tuned BART model is [BART-webnlg](https://drive.google.com/drive/folders/1eWQQB22gsAYUjJiosqO9JTfNaFHXf8WY?usp=drive_link)  
+The sem and webnlg-both fine-tuned BART model is [BART-sem-webnlg](https://drive.google.com/drive/folders/18XzlxcZELF82bfaJbi_mUnNv6HwDdRXV?usp=drive_link)  
 
 Fine-tuning Vicuna v1.1 and Vicuna v1.5 models and generating the explanatory text from the path diagram([vicuna](./Vicuna%20fine-tune/vicuna_finetune_generate.ipynb)).  
 The sem-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1--qxAbNLNBZCz6mfU7ufqKYVb1H8zppD?usp=drive_link)  

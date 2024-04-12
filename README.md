@@ -28,4 +28,5 @@ The sem-only fine-tuned Vicuna v1.5 model is [vicuna-v1.5-sem](https://drive.goo
 The webnlg-only fine-tuned Vicuna v1.5 model is [vicuna-v1.5-webnlg](https://drive.google.com/drive/folders/1NSpmPChyAwJGnk0zYr9LtjNVO3XqJ7Ab?usp=drive_link)  
 The sem and webnlg-both fine-tuned Vicuna v1.5 model is [vicuna-v1.5-sem-webnlg](https://drive.google.com/drive/folders/1BBPpexE9mjMQeVIJ-fmKQMEo_UdZUbgl?usp=drive_link)  
 
+###Evaluate  
 

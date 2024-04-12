@@ -29,5 +29,6 @@ The webnlg-only fine-tuned Vicuna v1.5 model is [vicuna-v1.5-webnlg](https://dri
 The sem and webnlg-both fine-tuned Vicuna v1.5 model is [vicuna-v1.5-sem-webnlg](https://drive.google.com/drive/folders/1BBPpexE9mjMQeVIJ-fmKQMEo_UdZUbgl?usp=drive_link)  
 
 ### Evaluate  
-···
+···  
 !python /content/drive/MyDrive/JointGT-main/eval_webnlg/fastchat.py '/content/drive/MyDrive/JointGT-main/fastchat_eval/sem_test.target' '/content/drive/MyDrive/JointGT-main/bart/sem_fintune/web_fintune_output.json'
+···

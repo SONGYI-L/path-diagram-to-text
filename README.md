@@ -31,5 +31,5 @@ The sem and webnlg-both fine-tuned Vicuna v1.5 model is [vicuna-v1.5-sem-webnlg]
 ### Evaluate  
 Using the BLUE, METEOR, and ROUGE score to evaluate the explanatory text:
 ```
-python /fastchat.py '/target_text.target' '/output_text.json'
+python /fastchat.py '/target.target' '/output.json'
 ```

@@ -25,6 +25,8 @@ The sem and webnlg-both fine-tuned BART model is [BART-sem-webnlg](https://drive
 
 #### Vicuna models
 Fine-tuning Vicuna v1.1 and Vicuna v1.5 models and generating the explanatory text from the path diagram([vicuna](./Vicuna%20fine-tune/vicuna_finetune_generate.ipynb)).  
+For Vicuna models the data of fine-tuning are:([sem](https://huggingface.co/datasets/LLLsy/sem))、([webnlg](https://huggingface.co/datasets/LLLsy/webnlg))、([sem and webnlg](https://huggingface.co/datasets/LLLsy/sem_webnlg))  
+For Vicuna models the data of test is:([sem data for vicuna](./Vicuna%20fine-tune/sem%20data%20for%20vicuna))
 The sem-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem](https://drive.google.com/drive/folders/1--qxAbNLNBZCz6mfU7ufqKYVb1H8zppD?usp=drive_link)  
 The webnlg-only fine-tuned Vicuna v1.1 model is [vicuna-v1.1-webnlg](https://drive.google.com/drive/folders/1QDriTnGETuUhuaUPWXDq3tAfarrrBH3x?usp=drive_link)  
 The sem and webnlg-both fine-tuned Vicuna v1.1 model is [vicuna-v1.1-sem-webnlg](https://drive.google.com/drive/folders/1AMc_WGhNUcS1j8wVCChwcxSLP_3porcu?usp=drive_link)  

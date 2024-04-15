@@ -1,0 +1,4612 @@
+[
+  {
+    "id": "141",
+    "object": [
+      {
+        "name": [
+          "latent variables,Individualism",
+          "down arrow,0.021",
+          "latent variables,E,Ethnocentrism"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,E,Ethnocentrism",
+          "right arrow,0.016",
+          "latent variables,N,Nationalism"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Individualism",
+          "right arrow,0.016",
+          "latent variables,N,Nationalism"
+        ]
+      }
+    ],
+    "text": "The standardized effect from A to E is 0.039, the highest cross-effect in the model. The reverse effect from E to A is 0.031, the next highest. Both effects are highly significant. A has a relatively strong effect on I, but there is no reverse effect from I to A. Note also that N is slightly, but significantly, influenced by I and E but not by A. Indirectly, A has effects on N via E and I, but they are extremely small. E takes the most central position in the structure because it has feedback relationships with A and I and unidirectionally influences N."
+  },
+  {
+    "id": "301",
+    "object": [
+      {
+        "name": [
+          "latent variables,FB1.1,85",
+          "up arrow,.92",
+          "latent variables,FB2.0"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB2.0",
+          "up arrow,.92",
+          "latent variables,FB1.1,85"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.3,.90",
+          "left arrow,.58,40",
+          "latent variables,FB2.0"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB2.0",
+          "right arrow,.86",
+          "latent variables,75,FB1.2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB2.0",
+          "down arrow",
+          "latent variables,FB1.4"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.4",
+          "down arrow",
+          "latent variables,FB2.0"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.3,.90",
+          "left arrow,40",
+          "latent variables,75,FB1.2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.4",
+          "left arrow,.35",
+          "latent variables,75,FB1.2"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,.69",
+          "up arrow,83.",
+          "latent variables,FB1.1,85"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.1,85",
+          "up arrow",
+          "measured variable,58"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.1,85",
+          "up arrow",
+          "measured variable,61,55"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.1,85",
+          "up arrow,res1",
+          "measured variable"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,.65,45,B45,58",
+          "left arrow,.81",
+          "latent variables,FB1.3,.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,56,B40",
+          "left arrow,75",
+          "latent variables,FB1.3,.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,B4g,53",
+          "left arrow,75",
+          "latent variables,FB1.3,.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,B44",
+          "left arrow,73",
+          "latent variables,FB1.3,.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,B21,47",
+          "down arrow,68",
+          "latent variables,FB1.4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,B24,54",
+          "down arrow,73",
+          "latent variables,FB1.4"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.4",
+          "down arrow,67",
+          "measured variable,B23,45"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,B23,45",
+          "down arrow,67",
+          "latent variables,FB1.4"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.4",
+          "down arrow,67",
+          "measured variable,B22,44"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FB1.4",
+          "down arrow,.66",
+          "measured variable,B25,44"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,75,FB1.2",
+          "right arrow,79,.73",
+          "measured variable,62,B30,e30"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,75,FB1.2",
+          "right arrow,.73",
+          "measured variable,53,B28"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,75,FB1.2",
+          "right arrow,68",
+          "measured variable,46,B2S"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,75,FB1.2",
+          "right arrow,.63",
+          "measured variable,B27"
+        ]
+      }
+    ],
+    "text": "The model postulated by the researcher allowed for the direct causal influence of the independent exogenous variable or second-order factor, namely, FB2.0 on the four first-order factors or endogenous dependent variables. In addition to these direct causal influences, indirect causal influences were also postulated between the FB1.2 and the FB1.3. As modeling effective teaching is related to the effective use of teaching time, an indirect link between FB1.2 and the FB1.4 was also postulated to be present."
+  },
+  {
+    "id": "144",
+    "object": [
+      {
+        "name": [
+          "measured variable,Arithmetical Problem-Solving",
+          "up arrow,16",
+          "measured variable,Sex"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Sex",
+          "up arrow,16",
+          "measured variable,Arithmetical Problem-Solving"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Arithmetical Problem-Solving",
+          "up arrow,13",
+          "measured variable,GC,37"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,GC,37",
+          "up arrow,13",
+          "measured variable,Arithmetical Problem-Solving"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "up arrow,32",
+          "measured variable,Gf"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Gf",
+          "up arrow,32",
+          "latent variables,Shifting"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Arithmetical Problem-Solving",
+          "left arrow,16",
+          "measured variable,Age"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Arithmetical Problem-Solving",
+          "left arrow,60",
+          "latent variables,Shifting"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Arithmetical Problem-Solving",
+          "left arrow,1",
+          "measured variable,Gf"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,GC,37",
+          "right arrow,17",
+          "latent variables,Shifting"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Age",
+          "right arrow,69",
+          "latent variables,Shifting"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,76,38",
+          "measured variable,Verbal Fluency"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,38",
+          "measured variable,TMT-B"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,38",
+          "measured variable,WCST"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,-.60",
+          "measured variable,TMT-B"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,-.60",
+          "measured variable,WCST"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Shifting",
+          "right arrow,66",
+          "measured variable,Five-PointTest"
+        ]
+      }
+    ],
+    "text": "The model indicates that sex and shifting have direct effects on arithmetical problem-solving and that shifting totally mediates the relationship between age, Gc and Gf and arithmetical problem-solving."
+  },
+  {
+    "id": "78",
+    "object": [
+      {
+        "name": [
+          "measured variable,P-test uses",
+          "correlation,.34",
+          "latent variables,P-test design"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,68,inguisticknowledg,73",
+          "left arrow,82,85",
+          "latent variables,P-test design"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Readingskills,.61",
+          "left arrow",
+          "latent variables,P-test design"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Listeningskills",
+          "left arrow,78",
+          "latent variables,P-test design"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Writingskills,.70",
+          "left arrow,,84",
+          "latent variables,P-test design"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,P-test uses",
+          "right arrow,31",
+          "measured variable,Test-value"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,P-test uses",
+          "right arrow,.06,.34",
+          "measured variable,Expectation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,P-test design",
+          "right arrow,.34",
+          "measured variable,Expectation"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,P-test uses",
+          "right arrow,.06",
+          "latent variables,TP,.24"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,P-test design",
+          "right arrow,26",
+          "latent variables,TP,.24"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,P-test design",
+          "right arrow,24,31",
+          "measured variable,Test-value"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Test-value",
+          "down arrow,14",
+          "latent variables,TP,.24"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Expectation",
+          "up arrow,.26,13",
+          "latent variables,TP,.24"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,TP,.24",
+          "right arrow,.66,28,75",
+          "measured variable,.44,Socio-affective,.57"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,TP,.24",
+          "right arrow,72,75",
+          "measured variable,Assess& evaluate"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,TP,.24",
+          "right arrow,78",
+          "measured variable,Drilling"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,TP,.24",
+          "right arrow,78",
+          "measured variable,62,Rehearsetest-takingskill$"
+        ]
+      }
+    ],
+    "text": "Because the path from P-test use to Expectation is not significantly different from zero, Expectation is not considered to be a useful mediator of the effects of P-test use on Test Prep. Value is considered an important mediator between P-test use and Test Prep. Moreover, both Expectation and Value are useful medi ators for the effects from P-design to TP, though the effects are only partial."
+  },
+  {
+    "id": "179",
+    "object": [
+      {
+        "name": [
+          "latent variables,Proactive,Personality",
+          "right arrow,.33,07",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Neuroticism",
+          "right arrow,07",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Extraversion",
+          "right arrow,20",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Openness",
+          "right arrow",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Agreeableness",
+          "right arrow,0",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Conscientiousness",
+          "right arrow,.16,0",
+          "latent variables,Motivation to,Learn"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Motivation to,Learn",
+          "right arrow",
+          "latent variables,Development,Activity"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Motivation to,Learn",
+          "right arrow",
+          "latent variables,Development,Activity"
+        ]
+      }
+    ],
+    "text": "As illustrated in figure, the hypothesized relationships between proactive personality and motivation to learn were significant, with the exception of the link between neuroticism and motivation to learn. The relationship between agreeableness and motivation to learn was also nonsignificant, providing some evidence of discriminant validity. Finally, motivation to learn was significantly related to development activity. Proactive personality, extraversion, and openness had significant indirect effects on development activity."
+  },
+  {
+    "id": "325",
+    "object": [
+      {
+        "name": [
+          "measured variable,Severe,Disease",
+          "right arrow,084**,.993**,058",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Severe,Disease",
+          "right arrow,058",
+          "measured variable,Symptoms"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Moderate,Disease",
+          "right arrow,063**",
+          "measured variable,Symptoms"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Moderate,Disease",
+          "right arrow,.138***",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Age",
+          "right arrow,148**,044,-.046,023,-043",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Symptoms",
+          "up arrow,-079*",
+          "measured variable,United,States"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,United,States",
+          "right arrow,.010,044,023",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Symptoms",
+          "left arrow,-.046,023",
+          "measured variable,Canada"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,United,States",
+          "left arrow,-.046,023",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "right arrow,.010",
+          "measured variable,Australia"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Canada",
+          "right arrow,.010",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Symptoms",
+          "left arrow,044,-.046,023,.010",
+          "measured variable,Australia"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,United,States",
+          "left arrow,044,-.046,023,.010",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "up arrow,.005",
+          "measured variable,Australia"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Australia",
+          "up arrow,.005",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Symptoms",
+          "right arrow,.614**",
+          "latent variables,Health-related,quality of life"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "right arrow,752***,777***",
+          "measured variable,Physical,Functioning,\u2014.630***"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "right arrow,766",
+          "measured variable,General,Health,\u4e00.643***,Perception"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "right arrow,.630***",
+          "measured variable,Emotional,well-being,\u2014.777***"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Health-related,quality of life",
+          "right arrow,752***",
+          "measured variable,Social,Function,\u2014.659***"
+        ]
+      }
+    ],
+    "text": "The presence of symptoms and increased cardiac severe disease were significantly associated with lower health-related quality of life. Increasing age was associated with decrements in health-related quality of life; the three country indicators were not significantly associated with health-related quality of life. Nonsignificant estimates shown in figure include the direct effects of age on symptoms; United States, Canada, and Australia on health-related quality of life; and Canada and Australia on symptoms."
+  },
+  {
+    "id": "259",
+    "object": [
+      {
+        "name": [
+          "measured variable,TP",
+          "right arrow,26",
+          "measured variable,EE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,TP",
+          "right arrow,09,CE,SA",
+          "measured variable,AE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,TP",
+          "right arrow",
+          "measured variable,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,25,SP",
+          "right arrow,09",
+          "measured variable,EE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,25,SP",
+          "right arrow,09",
+          "measured variable,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CP",
+          "right arrow,09",
+          "measured variable,EE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CP",
+          "right arrow,09",
+          "measured variable,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,TP",
+          "right arrow,SA,09",
+          "measured variable,BE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CP",
+          "right arrow,SA,09",
+          "measured variable,CE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CP",
+          "right arrow",
+          "measured variable,BE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,EE",
+          "down arrow",
+          "measured variable,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA",
+          "down arrow",
+          "measured variable,EE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,BE",
+          "right arrow,50",
+          "measured variable,AE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA",
+          "left arrow",
+          "measured variable,BE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA",
+          "left arrow",
+          "measured variable,AE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CE",
+          "down arrow",
+          "measured variable,AE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,BE",
+          "down arrow,50",
+          "measured variable,CE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,EE",
+          "left arrow",
+          "measured variable,CE"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA",
+          "left arrow",
+          "measured variable,CE"
+        ]
+      }
+    ],
+    "text": "Among the exogenous variables, the effects of CP, TP, BE, CE, and EE on SA were significant, whereas the effects of SP and AE on SA were not significant. Second, the effects of CP, TP, and CE on EE were significant, whereas the effect of SP was not. Third, the effect of CP on CE was significant. Fourth, the effects of CE and CP on BE were significant. Fifth, the effects of BE, CE, and TP on AE were significant."
+  },
+  {
+    "id": "359",
+    "object": [
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "up arrow,0.571\uff086.02\uff09",
+          "latent variables,Performance,Analysis"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Performance,Analysis",
+          "right arrow,0.179\uff083.34\uff09,66\uff09,504,d.199\uff084.51)",
+          "latent variables,Consistency,in Evaluation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "right arrow,0.179\uff083.34\uff09,66\uff09,504,d.199\uff084.51)",
+          "latent variables,Stakeholder,Feedback"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "right arrow,d.199\uff084.51)",
+          "latent variables,Consistency,in Evaluation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "right arrow,\uff085.59\uff09,0.567,\uff087.75\uff09,685,University,Adaptibility,Knowledge",
+          "latent variables,Research,Infrastructure"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "up arrow,0.567,\uff087.75\uff09",
+          "latent variables,Knowledge,Society"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Research,Infrastructure",
+          "right arrow",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,University,Adaptibility",
+          "left arrow,0.103\uff083.53\uff09,0.147\uff082.10\uff09",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Knowledge,Society",
+          "left arrow,\uff085,University,Adaptibility,685,0.147\uff082.10\uff09",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Curriculum,Design",
+          "left arrow,0.517,\uff085.59\uff09",
+          "latent variables,University,Adaptibility"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Consistency,in Evaluation",
+          "right arrow,\uff083.53\uff09",
+          "latent variables,Evaluation led,Faculty,Development"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Consistency,in Evaluation",
+          "right arrow,0.503",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Knowledge,Society",
+          "left arrow,Consistency,0.503,in Evaluation,0.517,\uff085.59\uff09,University,Adaptibility,685",
+          "latent variables,Evaluation led,Faculty,Development"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Strategic,Orientation",
+          "down arrow,0.391\uff084.73",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Composition,Strucureand,Role of BOS",
+          "down arrow,0.391\uff084.73",
+          "latent variables,Strategic,Orientation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Stakeholder,Feedback",
+          "left arrow,Evaluation led,Faculty,Development,0.103\uff083.53\uff09",
+          "latent variables,Composition,Strucureand,Role of BOS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,University,Adaptibility",
+          "left arrow,Evaluation led,Faculty,Development,0.103\uff083.53\uff09",
+          "latent variables,Strategic,Orientation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Stakeholder,Feedback",
+          "right arrow,0.458\uff084.48\uff09",
+          "latent variables,Strategic,Orientation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Performance,Analysis",
+          "right arrow,0.274(4.32",
+          "latent variables,Stakeholder,Feedback"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Environment,Scanning&,Assessment",
+          "up arrow,\u5fc3,0",
+          "latent variables,Stakeholder,Feedback"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Stakeholder,Feedback",
+          "up arrow,\u5fc3,0",
+          "latent variables,Environment,Scanning&,Assessment"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Environment,Scanning&,Assessment",
+          "right arrow",
+          "latent variables,Evaluation led,Faculty,Development"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Performance,Analysis",
+          "right arrow",
+          "latent variables,Environment,Scanning&,Assessment"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Performance,Analysis",
+          "down arrow,0.179\uff083.34\uff09,\uff087.75\uff09",
+          "latent variables,Knowledge,Society"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Knowledge,Society",
+          "down arrow,0.179\uff083.34\uff09,\uff087.75\uff09",
+          "latent variables,Performance,Analysis"
+        ]
+      }
+    ],
+    "text": "The strategic orientation of the university adaptibility is positively influenced by the stakeholder feedback. In turn, strategic orientation improves the composition, structure and role of BOS. The clearly articulated composition, structure and role of BOS will enhance the university adaptability, which in turn results in balanced vibrant curriculum design. The vibrant curriculum design further improves the stakeholder feedback as it better caters to their needs. Vibrant curriculum design demands an improved or higher consistency in evaluation which will lead to more evaluation led faculty development. A well-defined, clearly articulated composition, structure and role of BOS are essential for the good health of the university. The composition structure and role of BOS will enhance the development of the students for much broader knowledge society. This in-turn will help to achieve consistency in evaluation and mission through curriculum design. The development of knowledge society has significant influence on curriculum design. The curriculum design improves the performance analysis. Through performance analysis, it enhances focussed environment scanning and assessment. This process of environmental scanning and assessment leads to focussed evaluation led faculty development, which in turn enhances the knowledge society. The broader perspectives of the knowledge society will further spread the horizon of the curriculum design."
+  },
+  {
+    "id": "227",
+    "object": [
+      {
+        "name": [
+          "measured variable,ParentEthnicity",
+          "right arrow,18",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,ParentReligiosity",
+          "right arrow,18",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,ParentPoliticalOrientation",
+          "right arrow",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,AnnualHouseholdIncome",
+          "right arrow",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Condom,Effectiveness",
+          "up arrow,58",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,BirthControlPil,Effectiveness",
+          "up arrow,.54",
+          "latent variables,Effectiveness,Beliefs"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Effectiveness,Beliefs",
+          "up arrow,.54",
+          "measured variable,BirthControlPil,Effectiveness"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Effectiveness,Beliefs",
+          "up arrow",
+          "measured variable,TeenAbility,to Use"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Effectiveness,Beliefs",
+          "right arrow,16",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,TeenAge",
+          "right arrow",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,TeenRomanticRelationship",
+          "right arrow",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Parent-TeenGenderInteraction",
+          "right arrow",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Negative,Consequences",
+          "up arrow,.67",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parent-Teen,Communication",
+          "up arrow,.67",
+          "measured variable,Negative,Consequences"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parent-Teen,Communication",
+          "down arrow,62",
+          "measured variable,Obtaining,Contraception"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Obtaining,Contraception",
+          "down arrow,62",
+          "latent variables,Parent-Teen,Communication"
+        ]
+      }
+    ],
+    "text": "Figure depicts the final structural model with standardized coefficients shown for each path. All path coefficients were statistically significant, ranging from.11 to .32. Parent ethnicity, parent political orientation, and annual household income were positively correlated with Effectiveness Beliefs, whereas parent religiosity was negatively correlated. Teen age, perceived romantic relationship experience, and the parent-teen gender interaction were positively correlated with Parent-Teen Communication. A positive correlation was found between Effectiveness Beliefs and Parent-Teen Communication."
+  },
+  {
+    "id": "110",
+    "object": [
+      {
+        "name": [
+          "latent variables,Convenience",
+          "right arrow,\u03b2=0.015,F2",
+          "latent variables,Dependency"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Social,Needs",
+          "right arrow,\u03b2=0.048,\u03b2=0.031",
+          "latent variables,Dependency"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Purchase,Behavior",
+          "right arrow",
+          "measured variable,G1"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Purchase,Behavior",
+          "right arrow",
+          "measured variable,G3"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Purchase,Behavior",
+          "right arrow",
+          "measured variable,G2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Purchase,Behavior",
+          "right arrow",
+          "measured variable,G4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,F2",
+          "down arrow",
+          "latent variables,Dependency"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Dependency",
+          "down arrow",
+          "measured variable,F3"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,F3",
+          "down arrow",
+          "latent variables,Dependency"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Dependency",
+          "down arrow",
+          "measured variable,F4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,H2",
+          "left arrow",
+          "latent variables,Convenience"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,H3",
+          "left arrow",
+          "latent variables,Convenience"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,H4",
+          "left arrow",
+          "latent variables,Convenience"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,H5",
+          "left arrow",
+          "latent variables,Convenience"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,D1",
+          "left arrow",
+          "latent variables,Social,Influences"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,D2",
+          "left arrow",
+          "latent variables,Social,Influences"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,D3",
+          "left arrow",
+          "latent variables,Social,Influences"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,C4",
+          "left arrow",
+          "latent variables,Social,Needs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,C3",
+          "left arrow",
+          "latent variables,Social,Needs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,C2",
+          "left arrow",
+          "latent variables,Social,Needs"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,C1",
+          "left arrow",
+          "latent variables,Social,Needs"
+        ]
+      }
+    ],
+    "text": "The most significant finding was found in relation to the social needs factor(0.048), which was confirmed as the most important predictor of students\u2019 dependency on smartphone. Next, there was also support that social influences do affect students\u2019 dependency on smartphone(0.031). Convenience was the third most significant factor in explaining students\u2019 dependencyon smartphone(0.015). Furthermore, the importance of students\u2019 dependency on smartphone in influencing their purchase behavior(0.070)."
+  },
+  {
+    "id": "64",
+    "object": [
+      {
+        "name": [
+          "measured variable,MMself-efficacy,\uff08SEMM\uff09,0.163**",
+          "right arrow,0.193**",
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,MMself-efficacy,\uff08SEMM\uff09,0.163**",
+          "right arrow,0.119*",
+          "measured variable,Perceivedusefulness,\uff08PUMM\uff09,R2_0.223"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Technology anxiety,TAMM\uff09,-0.054n.s.",
+          "right arrow,0.119*",
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Technology anxiety,TAMM\uff09,-0.054n.s.",
+          "right arrow",
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM",
+          "down arrow,0.357**",
+          "measured variable,Perceivedusefulness,\uff08PUMM\uff09,R2_0.223"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perceivedusefulness,\uff08PUMM\uff09,R2_0.223",
+          "down arrow,0.357**",
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,R2_0.058,Perceived ease-of-use,\uff08PEMM",
+          "right arrow,0.408",
+          "measured variable,R2_0.505,Attitudetoward,mobilemoney,\uff08ATMM\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perceivedusefulness,\uff08PUMM\uff09,R2_0.223",
+          "right arrow,0.245*",
+          "measured variable,R2_0.505,Attitudetoward,mobilemoney,\uff08ATMM\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,R2_0.505,Attitudetoward,mobilemoney,\uff08ATMM\uff09",
+          "right arrow,0.255**",
+          "measured variable,R2_0.146,Intentiontouse,mobilemoney,(IUMM\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,R2_0.505,Attitudetoward,mobilemoney,\uff08ATMM\uff09",
+          "up arrow,0.155**",
+          "measured variable,Personal innovativeness,\uff08PIMM\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Personal innovativeness,\uff08PIMM\uff09",
+          "up arrow,0.158**",
+          "measured variable,R2_0.146,Intentiontouse,mobilemoney,(IUMM\uff09"
+        ]
+      }
+    ],
+    "text": "During mobile money adoption, mobile money users rely on the perceived ease-of-use with low perceived usefulness. Personal innovativeness contributes significantly to both user\u2019s attitude and intention to adopt mobile money service. The complementary mediation effect of the attitude of users on the relationship between personal innovativeness and intention to use. Similarly, the complementary mediation of the perceived usefulness regarding the relationship between perceived ease-of-use and attitude."
+  },
+  {
+    "id": "81",
+    "object": [
+      {
+        "name": [
+          "latent variables,Perceived,Usefulnes,(33.7%\uff09",
+          "up arrow,.58*",
+          "latent variables,Perceived,EaseofUse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,EaseofUse",
+          "up arrow,.58*",
+          "latent variables,Perceived,Usefulnes,(33.7%\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,EaseofUse",
+          "right arrow,34*",
+          "latent variables,AttitudeToward,Computer Use,\uff0845.8%\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,Usefulnes,(33.7%\uff09",
+          "right arrow,.42",
+          "latent variables,AttitudeToward,Computer Use,\uff0845.8%\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,AttitudeToward,Computer Use,\uff0845.8%\uff09",
+          "right arrow,73*",
+          "latent variables,Intention,to Use,(69.1%)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,Usefulnes,(33.7%\uff09",
+          "right arrow,.15\uff08n.s.),.42",
+          "latent variables,Intention,to Use,(69.1%)"
+        ]
+      }
+    ],
+    "text": "The path from perceived usefulness to intention to use is not significant. However, perceived usefulness influenced intention to use indirectly through attitude towards computer use. This being the case, the path from attitude towards computer use to intention to use was greater than the other paths (.73). To the participants in this study, a positive attitude towards computer use was a stronger driver than their perceived usefulness for the intention to use technology. Three other hypotheses were significant: perceived usefulness \u2192 attitude towards computer use (.42), perceived ease of use \u2192 perceived usefulness (.58), and perceived ease of use \u2192 attitude towards computer use (.34). It is noteworthy that, although perceived ease of use has a significant influence on attitude towards computer use, the former exerted a greater influence on perceived usefulness. Also, the influence on attitude towards computer use by perceived usefulness is stronger than that by perceived ease of use. It appeared in this study that the significance of perceived ease of use on attitude towards computer use was mediated by perceived usefulness."
+  },
+  {
+    "id": "121",
+    "object": [
+      {
+        "name": [
+          "measured variable,Physical activity,status,{IPAQ,score)",
+          "down arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Adherence tothe,Mediteranean diet",
+          "up arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sadness-self-,deprecation",
+          "right arrow",
+          "measured variable,Physical activity,status,{IPAQ,score)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sadness-self-,deprecation",
+          "right arrow,Physical activity,status,{IPAQ,score)",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sadness-self-,deprecation",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Anxiety-worry",
+          "right arrow",
+          "measured variable,Physical activity,status,{IPAQ,score)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Anxiety-worry",
+          "right arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Anxiety-worry",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative,feelings",
+          "right arrow",
+          "measured variable,Physical activity,status,{IPAQ,score)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative,feelings",
+          "right arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative,feelings",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,feelings",
+          "right arrow",
+          "measured variable,Physical activity,status,{IPAQ,score)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,feelings",
+          "right arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,feelings",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Somatic,complaints",
+          "right arrow",
+          "measured variable,Physical activity,status,{IPAQ,score)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Somatic,complaints",
+          "right arrow",
+          "measured variable,HelkenicSCORE,[age,smoking,totalcholesterol,systolic bkod,[aunssand"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Somatic,complaints",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Somatic,complaints",
+          "right arrow",
+          "measured variable,Adherence tothe,Mediteranean diet"
+        ]
+      }
+    ],
+    "text": "The \u201canxiety\u2013worry\u201d latent factor was associated with lower adherence to the Mediterranean diet and physical activity, whereas \u201cpositive feelings\u201d latent factor was positively related to MedDietScore and physical activity. Moreover, high adherence to the Mediterranean diet was inversely associated with CVD risk, whereas physical activity status showed a borderline association. Moreover, \u201cpositive feelings\u201d latent construct was associated with lower HellenicSCORE and this seems to be through the higher adherence to the Mediterranean diet."
+  },
+  {
+    "id": "137",
+    "object": [
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "correlation,652+1+",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,speak",
+          "up arrow,,803**",
+          "latent variables,ParentalSchoolInvolvement"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "up arrow,0.744*\u4e2d",
+          "measured variable,PTA"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "up arrow,-0.087",
+          "measured variable,Math Exam"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "up arrow,0.1031",
+          "measured variable,MathCAS"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Math Exam",
+          "up arrow,0.114,0.1031",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,MathCAS",
+          "up arrow,0.114",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,leamed",
+          "up arrow,07791",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parental Home Involvement",
+          "up arrow",
+          "measured variable,expect"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,aftend",
+          "down arrow",
+          "latent variables,ParentalSchoolInvolvement"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "down arrow,0.764*\u4e2d",
+          "measured variable,volnteer"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "down arrow,-0.101",
+          "measured variable,English Exam"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ParentalSchoolInvolvement",
+          "right arrow,-0.101",
+          "measured variable,EnglishCAS"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,English Exam",
+          "left arrow,0.138",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,EnglishCAS",
+          "down arrow,0.138",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,check",
+          "down arrow,01782",
+          "latent variables,Parental Home Involvement"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parental Home Involvement",
+          "down arrow,.676**",
+          "measured variable,hep"
+        ]
+      }
+    ],
+    "text": "Results indicated parental involvement activities at home and at school are statistically significant predictors of youth academic performance. However, the direction of the relationships differed between the two parental involvement factors. Parental home involvement was positively associated with academic performance. Parental school involvement was negatively associated with academic performance. Except for math cas, the negative relationships between parental school involvement and academic performance of youth were statistically significant. The positive relationships between parental home involvement and academic per formance of youth were all statistically significant. Fig. 2 illustrates the primary structural model, including the standardized path estimates. After examining all direct effects, parental home involvement had the largest significant positive effect size on English examination scores (0.139). The effect size of parental home involvement on English cas was similar (0.138). Further, parental school involvement had the largest significant negative effect size on English cas ( \u22120.112), followed by English examination score (\u22120.101). On average, the absolute value of effect sizes of parental home involvement on academic performance was slightly higher than the absolute value of effect sizes of parental school involvement."
+  },
+  {
+    "id": "396",
+    "object": [
+      {
+        "name": [
+          "measured variable,Innovativeness,Divide",
+          "up arrow,0.832,30.660",
+          "measured variable,CapabilityDivide"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CapabilityDivide",
+          "up arrow,0.832,30.660",
+          "measured variable,Innovativeness,Divide"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CapabilityDivide",
+          "up arrow,0.896,60.475",
+          "measured variable,AccessDivide"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,AccessDivide",
+          "up arrow,0.896,60.475",
+          "measured variable,CapabilityDivide"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Innovativeness,Divide",
+          "right arrow,0.546,5.474",
+          "measured variable,e-GovernmentUse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CapabilityDivide",
+          "right arrow,0.281,2.271",
+          "measured variable,e-GovernmentUse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,AccessDivide",
+          "right arrow,0.355,-0.041",
+          "measured variable,e-GovernmentUse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,e-GovernmentUse",
+          "right arrow,0.405,8.630",
+          "measured variable,Benefitsof,e-Government,R=0.507"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,e-GovernmentUse",
+          "right arrow,0.538,13.598",
+          "measured variable,UserSatisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Benefitsof,e-Government,R=0.507",
+          "up arrow,0.452,10.212",
+          "measured variable,UserSatisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,UserSatisfaction",
+          "up arrow,0.452,10.212",
+          "measured variable,Benefitsof,e-Government,R=0.507"
+        ]
+      }
+    ],
+    "text": "The influence of the digital divide on e-government systems success respondents appeared to produce a different result than that which was expected, especially regarding the influence of the access divide on e-government use which was not significant (\u03b2= \u22120.041, t= 0.355)."
+  },
+  {
+    "id": "263",
+    "text": "Figure 2 shows the results of a structural model as drawn on AMOS graphics. The hypothesis was supported (b = 0.51) and shows that there is a significant impact of e-learning system dimensions on e-learning effectiveness. Results show that system quality and service quality contribute more in e-learning system dimensiens. Second, information quality is also contribution, but it has weak loading. The researcher also found that the three dimensions (system quality, service quality and information quality) of e-learning system contributes to user satisfaction and net benefits."
+  },
+  {
+    "id": "98",
+    "object": [
+      {
+        "name": [
+          "measured variable,Knowedge about condom us",
+          "left arrow",
+          "latent variables,INFORMATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Attitudetowards condom use",
+          "left arrow",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perceptiondpeers condom use",
+          "left arrow",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perceptionofpeers,condom usefrequency",
+          "left arrow",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Intention",
+          "left arrow,0.77,0.40",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Riskperception pregnancy",
+          "left arrow,0.40",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Risk perception HIV",
+          "left arrow,0.40",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Risk perceptionSTD",
+          "left arrow,0.40",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,INFORMATION",
+          "correlation,0.15",
+          "latent variables,MOTTVATION"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MOTTVATION",
+          "correlation,0.15",
+          "latent variables,INFORMATION"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,INFORMATION",
+          "right arrow,-0.10",
+          "latent variables,BEHAVIORALSKILLS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MOTTVATION",
+          "right arrow",
+          "latent variables,BEHAVIORALSKILLS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BEHAVIORALSKILLS",
+          "right arrow",
+          "measured variable,condom use"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MOTTVATION",
+          "down arrow,0.67,-0.29",
+          "measured variable,AntisocialBehavior"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Intention to use condom",
+          "down arrow,0.67,-0.29",
+          "latent variables,BEHAVIORALSKILLS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BEHAVIORALSKILLS",
+          "down arrow,-0.29",
+          "measured variable,AntisocialBehavior"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,AntisocialBehavior",
+          "down arrow,-0.29",
+          "latent variables,BEHAVIORALSKILLS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BEHAVIORALSKILLS",
+          "down arrow",
+          "measured variable,Vanty"
+        ]
+      }
+    ],
+    "text": "The information-motivation-behavioral skills model comprises three components: information, motivation, and behavioral skills. The motivational component included attitudes toward condom use, subjective norms, condom use intention, and sexual risk perception toward pregnancy, HIV, and STD. This component was significantly related to behavioral skills (\u03b2 = 0.96), but the information component was not. The behavioral skills component was related to the condom use. The information and motivation components were positively associated. The behavioral skills component was positively and significantly related to condom use according to the information-motivation-behavioral skills model."
+  },
+  {
+    "id": "117",
+    "object": [
+      {
+        "name": [
+          "measured variable,Physical neglect",
+          "up arrow",
+          "latent variables"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Emotiona,neglect",
+          "up arrow",
+          "latent variables"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "up arrow",
+          "measured variable,Emotiona,neglect"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Emotiona,neglect",
+          "up arrow",
+          "measured variable,Rigid emotio,schemas"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "up arrow",
+          "latent variables,Negative emotional,schemas"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Rigid emotio,schemas",
+          "down arrow",
+          "latent variables,Negative emotional,schemas"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Emotional abuse",
+          "down arrow",
+          "latent variables"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "down arrow",
+          "measured variable,Physical abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Physical abuse",
+          "down arrow",
+          "latent variables"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative emotional,schemas",
+          "down arrow",
+          "measured variable,Negative belief,aboutemotions"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative emotional,schemas",
+          "right arrow",
+          "measured variable,Experimental,avoidance"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative emotional,schemas",
+          "right arrow,58,52",
+          "measured variable,Depression"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "right arrow",
+          "measured variable,Experimental,avoidance"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "right arrow",
+          "latent variables,Disconnection"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Disconnection",
+          "right arrow",
+          "measured variable,Experimental,avoidance"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Disconnection",
+          "right arrow,17",
+          "measured variable,Depression"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Experimental,avoidance",
+          "right arrow",
+          "measured variable,Depression"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Abandonmen",
+          "down arrow",
+          "latent variables,Disconnection"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Disconnection",
+          "down arrow",
+          "measured variable"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Isolation",
+          "down arrow",
+          "latent variables,Disconnection"
+        ]
+      },
+      {
+        "name": [
+          "measured variable",
+          "down arrow",
+          "latent variables,Disconnection"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Disconnection",
+          "down arrow",
+          "measured variable,Mistrust,T38"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Disconnection",
+          "down arrow",
+          "measured variable,Emotional,deprivation,47"
+        ]
+      }
+    ],
+    "text": "The standardized parameter estimates revealed that CT was significantly related to higher levels of depression symptoms through disconnection schemas. The CT contributed significantly\u200c to negative emotional schemas and experimental avoidance through disconnection schemas. The disconnection schemas pathway to depression was associated with negative emotional schemas and experimental avoidance. In other word, higher levels of disconnection schemas contributed significantly to depression symptoms through negative emotional schemas and experimental avoidance. Finally, negative emotional schemas pathway to depression was related to experimental avoidance."
+  },
+  {
+    "id": "54",
+    "object": [
+      {
+        "name": [
+          "latent variables,\uff08b\uff09,Human,sounds",
+          "right arrow,0.76",
+          "latent variables,Eventfulness,of sounds"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,\uff08b\uff09,Human,sounds",
+          "right arrow,-0.38,0.76",
+          "latent variables,Pleasantness,of sounds"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Traffic,noise",
+          "right arrow,-0.37,0.69**,0.76,-0.38",
+          "latent variables,Pleasantness,of sounds"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Traffic,noise",
+          "right arrow,0.40*,-0.21",
+          "latent variables,Visualquality"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,\uff08b\uff09,Human,sounds",
+          "right arrow,-0.37,0.40*,-0.21",
+          "latent variables,Visualquality"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Pleasantness,of sounds",
+          "right arrow,0.53",
+          "latent variables,Harmony,of environment"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Visualquality",
+          "up arrow",
+          "latent variables,Pleasantness,of sounds"
+        ]
+      }
+    ],
+    "text": "The positive relationships between the visual quality and the pleasantness of the soundscape were statistically significant. It was revealed that human sounds and traffic noises are important sound sources affecting soundscape perceptions. Sounds from human activities showed a significant relationship with soundscape perceptions and visual quality. Human sounds increased the eventfulness of soundscape and reduced the pleasantness of soundscape. Traffic noise disturbed the pleasantness of the soundscape and the perceived visual quality. The harmony of environments was significantly affected by the pleasantness of the soundscape. This implies that reducing trafficnoise is important to construct relevant environments."
+  },
+  {
+    "id": "169",
+    "object": [
+      {
+        "name": [
+          "measured variable,tBoredom,0.15",
+          "left arrow,0.86",
+          "latent variables,N"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Anxiety,0.53",
+          "left arrow,0.49",
+          "latent variables,N"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,0.26+Enjoymen",
+          "left arrow,0.35",
+          "latent variables"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,N",
+          "right arrow,0.48",
+          "latent variables,Engage"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,N",
+          "right arrow,0.49,0.81",
+          "latent variables,FLRC"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "right arrow,0.49,0.81",
+          "latent variables,Engage"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,N",
+          "right arrow,0.48,0.49,0.81",
+          "latent variables,FLRC"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "right arrow,0.48,0.49,0.81",
+          "latent variables,Engage"
+        ]
+      },
+      {
+        "name": [
+          "latent variables",
+          "right arrow",
+          "latent variables,FLRC"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Engage",
+          "down arrow,0.42",
+          "latent variables,FLRC"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "down arrow,0.42",
+          "latent variables,Engage"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Engage",
+          "right arrow,0.46",
+          "measured variable,Cognitive,0.08"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Engage",
+          "right arrow",
+          "measured variable,Behavior,0.13"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Engage",
+          "right arrow",
+          "measured variable,Emotional,0.06"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "right arrow,0.49",
+          "measured variable,T1,0.08"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "right arrow,0.49",
+          "measured variable,T2,0.06"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "right arrow,0.42",
+          "measured variable,T3,0.07"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "right arrow,0.46,0.45,0.42",
+          "measured variable,T4,0.06"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,FLRC",
+          "right arrow,0.42,0.46,0.45",
+          "measured variable,TS,0.07"
+        ]
+      }
+    ],
+    "text": "As it is depicted in model A, the path coefficients in the model for N (Negative) and P (Positive) emotions to FLRC were significant (\u2212 0.81 and 0.74 respectively) with the N having a higher predictive role in FLRC. In addition, the path coefficient for Engage to FLRC was significant (0.42)."
+  },
+  {
+    "id": "247",
+    "object": [
+      {
+        "name": [
+          "measured variable,Expectedorganizational,rewards\uff0851\uff09,OR2,OR1,OR3,OR4",
+          "right arrow,0.09,0.11",
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Expectedorganizational,rewards\uff0851\uff09,OR2,OR1,OR3,OR4",
+          "right arrow,0.35,025,0.27,0.09,0.11",
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Reciprocalbenefits,\uff0852\uff09,RB2,RB3,RB1,RB4",
+          "right arrow,0.35",
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Reciprocalbenefits,\uff0852\uff09,RB2,RB3,RB1,RB4",
+          "right arrow,025,0.27",
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Knowledge self-efficacy,\uff0853\uff09,KS1,KS2,KS3,KS4",
+          "right arrow,025,0.27",
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Knowledge self-efficacy,\uff0853\uff09,KS1,KS2,KS3,KS4",
+          "right arrow,0.42",
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Enjoymentinhelping,others\uff0854\uff09,EH2,EH3,EH1,EH4",
+          "right arrow,0.21,0.24,025,0.27,0.42",
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Enjoymentinhelping,others\uff0854\uff09,EH2,EH3,EH1,EH4",
+          "right arrow,0.21,0.24",
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)",
+          "down arrow,0.39**,B2=0.32",
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Knowledgesharing,intentions\uff08n2),R2=0.49,IN2,IN3,IN4,x\u00b2/df=2.05,GFl=0.87,CFI=0.92,NFI=0.90",
+          "down arrow,0.39**,B2=0.32",
+          "measured variable,AT2,AT3,AT1,AT4,Attitudestoward,knowledgesharing\uff08n1)"
+        ]
+      }
+    ],
+    "text": "The results of the structural model analysis are displayed in Figure. The finding showed that employee attitudes toward knowledge sharing have a positive influence on knowledge sharinf intentions (0.39). However, expected organizational rewards are not significantly related to employee attitudes toward knowledge sharing (0.09) or to knowledge sharing intentions (0.11). Furthermore, reciprocal benefits (0.35), knowledge self-efficacy (0.27), and enjoyment in helping others (0.21) positively affect employee attitudes toward knowledge sharing. Finally, reciprocal benefits (0.25), knowledge self-efficacy (0.42), and enjoyment in helping others (0.24) positively influence employee knowledge sharing intentions."
+  },
+  {
+    "id": "174",
+    "object": [
+      {
+        "name": [
+          "latent variables,R3,R5,R1,R4,0.12,0.2,R6,R7,1.CoCPolicy,Qual&,Safety",
+          "down arrow,0.4,R8,0.3,R17,0.5,38.0***,R11,R12",
+          "latent variables,0.4,2.CoCSys,Culture,R14,0.001,R15,0.2,R16,0.3"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,0.4,2.CoCSys,Culture,R14,0.001,R15,0.2,R16,0.3",
+          "down arrow,0.4,R8,0.3,R17,0.5,38.0***,R11,R12",
+          "latent variables,R3,R5,R1,R4,0.12,0.2,R6,R7,1.CoCPolicy,Qual&,Safety"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R3,R5,R1,R4,0.12,0.2,R6,R7,1.CoCPolicy,Qual&,Safety",
+          "down arrow,10.2***",
+          "latent variables,3.CoC.Sys\uff1a,Leadership,Q16,Q17,Q18,0.18,0.13,0.011,Q27,Q28,Q29,Q30,0.02,0.009,0.001,0.004"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R3,R5,R1,R4,0.12,0.2,R6,R7,1.CoCPolicy,Qual&,Safety",
+          "right arrow,R9,0.3,19.8***",
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,0.4,2.CoCSys,Culture,R14,0.001,R15,0.2,R16,0.3",
+          "right arrow,8.0*,19.8***,10.2***",
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,0.4,2.CoCSys,Culture,R14,0.001,R15,0.2,R16,0.3",
+          "down arrow,19.0**,R2,0.9,R13,0.8",
+          "latent variables,3.CoC.Sys\uff1a,Leadership,Q16,Q17,Q18,0.18,0.13,0.011,Q27,Q28,Q29,Q30,0.02,0.009,0.001,0.004"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,3.CoC.Sys\uff1a,Leadership,Q16,Q17,Q18,0.18,0.13,0.011,Q27,Q28,Q29,Q30,0.02,0.009,0.001,0.004",
+          "right arrow,3.0*,Q19,0.17,Q31,0.03",
+          "latent variables,5.1oC\uff1a,PhysicalCare,Q20,Q22,Q21,0.09,0.01,0.10,Q32,Q34,Q33,0.03,0.002,0.08"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,3.CoC.Sys\uff1a,Leadership,Q16,Q17,Q18,0.18,0.13,0.011,Q27,Q28,Q29,Q30,0.02,0.009,0.001,0.004",
+          "up arrow,19.8***,8.0*",
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,3.CoC.Sys\uff1a,Leadership,Q16,Q17,Q18,0.18,0.13,0.011,Q27,Q28,Q29,Q30,0.02,0.009,0.001,0.004",
+          "right arrow,2.9**,8.4***",
+          "latent variables,Q5,7.loC\uff1aRelation,Care,0.3,Q8,Q9,Q25,Q26,0.03,Q37,Q38,0.02"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,5.1oC\uff1a,PhysicalCare,Q20,Q22,Q21,0.09,0.01,0.10,Q32,Q34,Q33,0.03,0.002,0.08",
+          "right arrow,24.2***,2.2*,117.0*,8.4***",
+          "latent variables,R22,R23,Q4,Q7,Q10,10.002,0.03,0.2,0.22,Q11,0.25,Q13,6.1oC:Psycho,Q14,SocialCare,0.21"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,5.1oC\uff1a,PhysicalCare,Q20,Q22,Q21,0.09,0.01,0.10,Q32,Q34,Q33,0.03,0.002,0.08",
+          "right arrow,Q23,Q24,0.03,0.01,0.09,Q35,Q36,0.07,0.04,8.4***",
+          "latent variables,Q5,7.loC\uff1aRelation,Care,0.3,Q8,Q9,Q25,Q26,0.03,Q37,Q38,0.02"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources",
+          "down arrow",
+          "latent variables,5.1oC\uff1a,PhysicalCare,Q20,Q22,Q21,0.09,0.01,0.10,Q32,Q34,Q33,0.03,0.002,0.08"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,5.1oC\uff1a,PhysicalCare,Q20,Q22,Q21,0.09,0.01,0.10,Q32,Q34,Q33,0.03,0.002,0.08",
+          "down arrow",
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R10,R18,R20,R21,R19,0.1,0.2,0.3,0.04,4.CoCSys\uff1a,Resources",
+          "right arrow,8.4**,2.2*,117.0*",
+          "latent variables,Q5,7.loC\uff1aRelation,Care,0.3,Q8,Q9,Q25,Q26,0.03,Q37,Q38,0.02"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R22,R23,Q4,Q7,Q10,10.002,0.03,0.2,0.22,Q11,0.25,Q13,6.1oC:Psycho,Q14,SocialCare,0.21",
+          "down arrow,Q1,0.09,Q2,0.05,Q3,0.06,24.2***",
+          "latent variables,Q5,7.loC\uff1aRelation,Care,0.3,Q8,Q9,Q25,Q26,0.03,Q37,Q38,0.02"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Q5,7.loC\uff1aRelation,Care,0.3,Q8,Q9,Q25,Q26,0.03,Q37,Q38,0.02",
+          "down arrow,Q1,0.09,Q2,0.05,Q3,0.06,24.2***",
+          "latent variables,R22,R23,Q4,Q7,Q10,10.002,0.03,0.2,0.22,Q11,0.25,Q13,6.1oC:Psycho,Q14,SocialCare,0.21"
+        ]
+      }
+    ],
+    "text": "In figure, relational carer is directly and significantly defined by the effects of both physical care and psychosocial care with co-efficients of 8.4 and 24.2 respectively. It is also defined by leadership and resources, with co-efficients of 2.9 and 2.2 correspondingly. Psychosocial care from the integration of care dimension, is being affected by one direct predictor variable, physical care, from the integration of care dimension with a strong loading of 117.0. Physical care from the integration of care dimension is directly defined by leadership and resources from the context of the care dimension, with co-efficients of 8.4 and 3.0 respectively."
+  },
+  {
+    "id": "208",
+    "object": [
+      {
+        "name": [
+          "latent variables,Environmental,sustainability",
+          "right arrow,-0.174,\uff08-2.426)",
+          "latent variables,Positive,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Environmental,sustainability",
+          "right arrow,0.095,(1.524),0.2Q7,\uff082.9)&,0.203,\uff084.020),-0.152,-.096,(-1.613),-0.199,0.360,0285,\uff084.060),\uff085/290\uff09,\uff08-2.426)",
+          "latent variables,Negative,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Tourism,planning",
+          "right arrow,(-1.221\uff09,0.203,\uff084.020),-0.152",
+          "latent variables,Supportfor,tourism"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Tourism,planning",
+          "right arrow,\uff084.020),-0.152,-.096,(-1.613),-0.199,0.360,0285,\uff084.060),\uff085/290\uff09",
+          "latent variables,Negative,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,participation",
+          "right arrow,(-2.516),\uff08-2.243\uff09,0.095,(1.524),0.2Q7,\uff082.9)&,0.203,\uff084.020),-0.152,-.096,-0.199",
+          "latent variables,Positive,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,participation",
+          "right arrow,0.360,0285,\uff084.060),\uff085/290\uff09",
+          "latent variables,Negative,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Environmental,sustainability",
+          "right arrow,-0.236,\uff08-4.430\uff09,\uff08-2.426),0.095,(1.524),0.2Q7,\uff082.9)&,0.203,\uff084.020),-0.152,-.096,(-2.516),-0.199,\uff08-2.243\uff09,0.360,0285,\uff084.060),\uff085/290\uff09",
+          "measured variable,Y4"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,attachment",
+          "right arrow,-0.236,\uff08-4.430\uff09,\uff08-2.426),0.095,(1.524),0.2Q7,\uff082.9)&,0.203,\uff084.020),-0.152,-.096,(-2.516),-0.199,\uff08-2.243\uff09,0.360,0285,\uff084.060),\uff085/290\uff09",
+          "latent variables,Positive,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Tourism,planning",
+          "right arrow,0.117,\uff082.455\uff09,-.096,(-2.516),(-1.613),-0.199,\uff08-2.243\uff09,0.360,0285,\uff084.060),\uff085/290\uff09,-0.236,\uff08-4.430\uff09",
+          "measured variable,Y5"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,attachment",
+          "right arrow,0.117,\uff082.455\uff09,-.096,(-2.516),(-1.613),-0.199,\uff08-2.243\uff09,0.360,0285,\uff084.060),\uff085/290\uff09,-0.236,\uff08-4.430\uff09",
+          "latent variables,Supportfor,tourism"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,attachment",
+          "right arrow,-0.236,\uff08-4.430\uff09",
+          "latent variables,Negative,impacts"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,impacts",
+          "down arrow,0.424,8206\uff09,-0.070",
+          "latent variables,Supportfor,tourism"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Negative,impacts",
+          "up arrow,/378,\uff0877.706\uff09",
+          "latent variables,Supportfor,tourism"
+        ]
+      }
+    ],
+    "text": "Perceived negative impact had a negative relationship with support for tourism as hypothesized and can be considered an important factor (\u22120.378) in explaining resident behavioral intentions to support future tourism development, while perceived positive impact had a positive relationship (0.424). Tourism planning (0.203) was positively related to support for tourism. As community attachment (0.117) increases, resident support for tourism also increases. The measurements for environmental sustainability and community participation were not statistically significant. Additionally, the paths from environmental sustainability, tourism planning, community participation and community attachment to positive impacts and negative impacts were tested. The statistical results in the structural model showed that environmental sustainability (\u22120.174), community participation (\u22120.199) and community attachment (0.300) are statistically significant to the perceived positive impacts."
+  },
+  {
+    "id": "155",
+    "object": [
+      {
+        "name": [
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09",
+          "right arrow,0.64***",
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09",
+          "right arrow,0.37***",
+          "latent variables,Positive,Emotion,)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09",
+          "right arrow,0.47**",
+          "latent variables,Positive,Emotion,)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,Emotion,)",
+          "right arrow,0.23**",
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03",
+          "right arrow,0.97",
+          "measured variable,Y7"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03",
+          "right arrow,0.97",
+          "measured variable,Y6"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03",
+          "right arrow,0.83-",
+          "measured variable,Y7"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03",
+          "right arrow,0.92\u3001",
+          "measured variable,Y8"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Impulse,Buying,\uff083\uff09,x\u00b2=83.32\uff08df=45\uff0cp=0.0045\uff09,GFI-0.94AGFI=0.89RMR=0.03",
+          "right arrow,0.92\u3001",
+          "measured variable,Y7"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,X1",
+          "left arrow,0.85",
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,X2",
+          "left arrow,0.81",
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,X2",
+          "left arrow,0.70",
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,X3",
+          "left arrow,0.70",
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,X4",
+          "left arrow,.0.79",
+          "latent variables,Fashion,Involvement,\uff08\uff1a\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09",
+          "down arrow,0.910.94",
+          "measured variable,Y4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Y3",
+          "down arrow,0.910.94",
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09",
+          "down arrow",
+          "measured variable,Y4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Y4",
+          "down arrow",
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09",
+          "down arrow,40.87",
+          "measured variable,Y5"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Y4",
+          "down arrow,40.87",
+          "latent variables,Hedonic,Consumption,Tendency\uff08m\uff09"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Y1",
+          "up arrow,0.96",
+          "latent variables,Positive,Emotion,)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,Emotion,)",
+          "up arrow,0.96",
+          "measured variable,Y1"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Y2",
+          "up arrow,0.82",
+          "latent variables,Positive,Emotion,)"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Positive,Emotion,)",
+          "up arrow,0.82",
+          "measured variable,Y2"
+        ]
+      }
+    ],
+    "text": "Fashion involvement had a positive causal effect on positive emotion (0.47). Fashion involvement had a significant positive effect on hedonic consumption tendency (0.64). Fashion involvement had a direct significant effect on fashion-oriented impulse buying behavior (0.62). Hedonic consumption tendency related significantly to positive emotions (0.37). However, there was a significant indirect effect for hedonic consumption tendency on fashion-oriented impulse buying via the mediating positive emotion. Positive emotion produced a positive effect on fashion-oriented impulse buying when shopping (0.23). This finding suggested that emotional states play an important role in decision making for impulse buying clothing. When compared to the effect of positive emotion (0.23), fashion involvement had a greater effect on fashion-oriented impulse buying (0.62)."
+  },
+  {
+    "id": "119",
+    "object": [
+      {
+        "name": [
+          "measured variable,Leader-Member,Exchange,respectively",
+          "right arrow,0.053",
+          "measured variable,Individual,Feelingof,Energy,R-square=29.8%"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Leader-Member,Exchange,respectively",
+          "right arrow,-0.251**",
+          "measured variable,R-square=10.9%,Turnover,Intention"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,R-square=0.3%,Interpersonal,Relationship",
+          "right arrow,0.215***",
+          "measured variable,R-square=10.9%,Turnover,Intention"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Individual,Feelingof,Energy,R-square=29.8%",
+          "right arrow,0.534***,Note\uff1a**p<.01\uff1b***p<.001\uff1b straightand dotted lines denotestatisticallysignificantandinsignificantpath",
+          "measured variable,Creative,Work,Involvement,R-square=28.5%"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Individual,Feelingof,Energy,R-square=29.8%",
+          "right arrow,0.534***,Note\uff1a**p<.01\uff1b***p<.001\uff1b straightand dotted lines denotestatisticallysignificantandinsignificantpath",
+          "measured variable,Creative,Work,Involvement,R-square=28.5%"
+        ]
+      }
+    ],
+    "text": "LMX relationship has three endogenous variables in this study viz. interpersonal relationship, turnover intention, and individual feeling of energy. The overall results of the structural analysis indicate that LMX has significant negative relationship with employee's turnover intention (0.251). Besides, the results of SEM show that LMX is positively related with individual feeling of energy (0.546) which is in turn, positively related to predict creative work involvement. Moreover, interpersonal relationship has shown a significant positive impact on turnover intention. First, the statistical results reveal that LMX has significant negative relationship with employee's turnover intention. Second, it was determined from the results that LMX is positively related with individual feeling of energy. Third, the research findings elaborate that individual feeling of energy is positively related with creative work involvement (0.534). Last, the results provide strong evidence that interpersonal relationship is positively related with turnover intention (0.215)."
+  },
+  {
+    "id": "107",
+    "object": [
+      {
+        "name": [
+          "measured variable,Psy",
+          "left arrow,90",
+          "latent variables,Mother,CM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,51,Phy",
+          "left arrow,.67",
+          "latent variables,Mother,CM"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Mother,CM",
+          "correlation,56",
+          "latent variables,Father,CM"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Father,CM",
+          "correlation,56",
+          "latent variables,Mother,CM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Psy",
+          "left arrow",
+          "latent variables,Father,CM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Phy",
+          "correlation,71",
+          "latent variables,Father,CM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Phy",
+          "correlation,31",
+          "latent variables,Father,CM"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CSA",
+          "correlation,31",
+          "latent variables,Father,CM"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Mother,CM",
+          "right arrow,15,37,31",
+          "latent variables,BPRS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Mother,CM",
+          "right arrow,17,37",
+          "measured variable,Attachment,avoidance"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Father,CM",
+          "right arrow,17,37",
+          "measured variable,Attachment,anxiety"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Father,CM",
+          "right arrow,17",
+          "latent variables,BPRS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Father,CM",
+          "right arrow",
+          "measured variable,Attachment,avoidance"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Attachment,avoidance",
+          "right arrow",
+          "latent variables,BPRS"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Attachment,anxiety",
+          "right arrow,48**",
+          "latent variables,BPRS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BPRS",
+          "right arrow,68*,.69",
+          "measured variable,Anger"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BPRS",
+          "right arrow,.69",
+          "measured variable,SUI"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BPRS",
+          "right arrow,.88**",
+          "measured variable,TRB"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BPRS",
+          "right arrow,70***",
+          "measured variable,ISR"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,BPRS",
+          "right arrow,45*",
+          "measured variable,DSB"
+        ]
+      }
+    ],
+    "text": "For women, mother CM and father CM continued to be significantly associated with BPRS. Mother CM was unrelated to attachment, whereas father CM was significantly related to both attachment anxiety and avoidance. The indirect effect from father CM to BPRS through attachment anxiety was significant, but the indirect effect through attachment avoidance was not significant."
+  },
+  {
+    "id": "87",
+    "object": [
+      {
+        "name": [
+          "latent variables,CCB-T1",
+          "right arrow,B-74***",
+          "latent variables,CCB-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,CCB-T1",
+          "right arrow,B=-13\u00b0*,B=59+**",
+          "latent variables,SMS-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SMS-T1",
+          "right arrow,B=-13\u00b0*,B=59+**",
+          "latent variables,CCB-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SMS-T1",
+          "right arrow,B=59+**",
+          "latent variables,SMS-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SMS-T1",
+          "right arrow,\u03b2=.10,\u03b2=.50\u00b7\u00b7",
+          "latent variables,VC-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VC-T1",
+          "right arrow,\u03b2=.10,\u03b2=.50\u00b7\u00b7",
+          "latent variables,SMS-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VC-T1",
+          "right arrow,\u03b2=.50\u00b7\u00b7",
+          "latent variables,VC-T2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VC-T1",
+          "right arrow,\u03b2=.50\u00b7\u00b7",
+          "latent variables,VC-T2"
+        ]
+      }
+    ],
+    "text": "From the analysis of the direct effects among the latent variables it emerged that high levels of CCB at T1 were significant predictors of low levels of SMS at T2 (\u03b2\u2009=\u2009\u2212\u20090.12), but not of VC at T2. High levels of SMS at T1 were predictive of high levels of VC at T2 (\u03b2\u2009=\u20090.14). As the direct effect from CCB-T1 to VC-T2 is not statistically significant, it emerged that the relationship between CCB and VC is fully mediated by SMS."
+  },
+  {
+    "id": "235",
+    "object": [
+      {
+        "name": [
+          "latent variables,Peer,support",
+          "right arrow,0.13,0.28,0.35",
+          "latent variables,Quality,of life,R\u00b2=0.45,p<0.001"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Peer,support",
+          "right arrow,0.28",
+          "latent variables,Child,mental,health,R2=0.33"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parental,support",
+          "right arrow,0.35",
+          "latent variables,Child,mental,health,R2=0.33"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Parental,support",
+          "right arrow,0.19,-0.03,-0.16,0.35",
+          "latent variables,Quality,of life,R\u00b2=0.45,p<0.001"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,IQ,(Verbal\uff09",
+          "down arrow,0.13",
+          "latent variables,Child,mental,health,R2=0.33"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Seizurestatus,p>0.05",
+          "up arrow,-0.16",
+          "latent variables,Child,mental,health,R2=0.33"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,IQ,(Verbal\uff09",
+          "right arrow,0.11,0.35",
+          "latent variables,Quality,of life,R\u00b2=0.45,p<0.001"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,mental,health,R2=0.33",
+          "right arrow,0.27",
+          "latent variables,Quality,of life,R\u00b2=0.45,p<0.001"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,mental,health,R2=0.33",
+          "right arrow,0.27",
+          "latent variables,Quality,of life,R\u00b2=0.45,p<0.001"
+        ]
+      }
+    ],
+    "text": "The final structural model (figure 2) shows the strength and significance of all paths using standardized coefficients; this can be interpreted similarly to individual correlation coefficients when all the other factors in the model are held constant. For example, child mental health is directly and positively related to quality of life with the strength of 0.27 when seizure status, estimated verbal IQ, and parental support are held constant. The total variance explained in child mental health and quality of life were 0.33 and 0.45, respectively. Child mental health, parental support, and peer support showed strong total effects to quality of life. Parental support demonstrated an indirect relationship to quality of life via the child mental health."
+  },
+  {
+    "id": "382",
+    "object": [
+      {
+        "name": [
+          "latent variables,Environmental,Dimension",
+          "right arrow,0.262,0.199",
+          "latent variables,Resident,Satisfaction,R=45.1%,=19.9%"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Economic,Dimension",
+          "right arrow,0.199",
+          "latent variables,Resident,Satisfaction,R=45.1%,=19.9%"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Institutional,Dimension",
+          "right arrow,0.174",
+          "latent variables,Resident,Satisfaction,R=45.1%,=19.9%"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Socio-Cultura,Dimension",
+          "right arrow,0.463,0.174",
+          "latent variables,Resident,Satisfaction,R=45.1%,=19.9%"
+        ]
+      }
+    ],
+    "text": "The institutional dimension was the strongest (B= 0.463) while socio-cultural dimension was the weakest predictor (B = 0.174) of resident satisfaction. Figure shows that all four hypotheses were proven significant."
+  },
+  {
+    "id": "93",
+    "object": [
+      {
+        "name": [
+          "latent variables,Gender",
+          "down arrow",
+          "latent variables,MHLC-PO"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-PO",
+          "down arrow",
+          "latent variables,Gender"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-,Multidimensional,HealthLocusofControl",
+          "left arrow,0.15,0.24",
+          "latent variables,Gender"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Age",
+          "down arrow,0.24",
+          "latent variables,MHLC-PO"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-,Multidimensional,HealthLocusofControl",
+          "down arrow,0.17",
+          "latent variables,Age"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Demographic,Education,level",
+          "right arrow,-0.11,MHLC-",
+          "latent variables,MHLC-PO"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Demographic,Education,level",
+          "right arrow,0.25,MHLC-",
+          "latent variables,MHLC-C,*Patchis significant atthe0.05level,**Patchissignificant atthe0.01level,***Patchissignificantatthe0.001level"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-,Multidimensional,HealthLocusofControl",
+          "right arrow,0.13,0.24",
+          "latent variables,Diseases,burden,R2=0.07"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-,Multidimensional,HealthLocusofControl",
+          "right arrow,0.13,0.24",
+          "latent variables,R=0.23,SRH,Globalhealth"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-C,*Patchis significant atthe0.05level,**Patchissignificant atthe0.01level,***Patchissignificantatthe0.001level",
+          "right arrow,0.14,0.13,0.24",
+          "latent variables,Diseases,burden,R2=0.07"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-C,*Patchis significant atthe0.05level,**Patchissignificant atthe0.01level,***Patchissignificantatthe0.001level",
+          "right arrow,0.13,0.14",
+          "latent variables,R=0.23,SRH,Globalhealth"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,MHLC-PO",
+          "right arrow,0.13,0.14",
+          "latent variables,R=0.23,SRH,Globalhealth"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Diseases,burden,R2=0.07",
+          "down arrow,0.30***",
+          "latent variables,R=0.23,SRH,Globalhealth"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R=0.23,SRH,Globalhealth",
+          "down arrow,0.30***",
+          "latent variables,Diseases,burden,R2=0.07"
+        ]
+      }
+    ],
+    "text": "The SEM analyses of MHLC, disease burden, SRH and the demographic variables showed that education level, age and gender were directly associated with MHLC-I, MHLC-C and MHLC-PO, but not with SRH or disease burden. High MHLC-I was positively associated with SRH, while high MHLC-C and MHLC-PO others were negatively associated with SRH. Disease burden was negatively associated with internal MHLC and positively associated to chance MHLC. Disease burden also seems to lower SRH, a result that was further supported in the logistic regression."
+  },
+  {
+    "id": "165",
+    "object": [
+      {
+        "name": [
+          "measured variable,0.36\u5341,Q1",
+          "left arrow,0.80,0.84,0.83",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,0.29+,Q2",
+          "left arrow,0.80,0.84,0.83",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q3,0.31+",
+          "left arrow,0.84,0.83,0.80",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q_4,0.37-",
+          "left arrow,0.80",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q_5,\u53e3.30+",
+          "left arrow,-0.84",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q_6,0.27+",
+          "left arrow,0.86,0.71",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q7,0.50+",
+          "left arrow,-0.84,0.86,0.71",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Q8,0.67",
+          "left arrow,0.66,-0.84,0.86,0.71",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,0.56-,Q9",
+          "left arrow,-0.84,0.86,0.71,0.66",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,0.564,Q_10",
+          "left arrow,-0.84,0.86,0.71,0.66",
+          "latent variables,Q1tyWL"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Q1tyWL",
+          "right arrow,0.62",
+          "latent variables,JobS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Q1tyWL",
+          "right arrow,0.28",
+          "latent variables,OrgP"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.66,0.76,0.84,0.74",
+          "measured variable,\u53e312,+0.43"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.76,0.84,0.74",
+          "measured variable,\u53e313,+0.30"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.74",
+          "measured variable,\u53e314,0.45"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.73",
+          "measured variable,15,+0.46"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.74",
+          "measured variable,\u53e316,+0.45"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,JobS",
+          "right arrow,0.74",
+          "measured variable,\u53e317,0.45"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,0.74",
+          "measured variable,15,+0.46"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,0.80,0.79,Q.85",
+          "measured variable,19,+0.38"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,.86,81,0.80,0.79,Q.85",
+          "measured variable,\u53e320,0.27"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,0.79,0.80,Q.85,.86,81",
+          "measured variable,\u53e321,+0.26"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,0.80,0.79,Q.85,.86,81",
+          "measured variable,\u53e322,+0.34"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,OrgP",
+          "right arrow,0.80,0.79,Q.85,.86,81",
+          "measured variable,\u53e323,0.37"
+        ]
+      }
+    ],
+    "text": "The standardized co efficient between quality of work life and the job satisfaction (0.62) are significant. Therefore it is concluded that there is a significant effect of QltyWL on jobS. The standardized co-efficient between QltyWL and the orgP (0.28) are significant. Therefore it is concluded that there is a significant positive impact of QltyWL on orgP."
+  },
+  {
+    "id": "23",
+    "object": [
+      {
+        "name": [
+          "latent variables,PerceivedEnjoy",
+          "right arrow,H6,\uff08B=.16\uff09***",
+          "latent variables,Perceived Ease,of Use,R2=.39"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perception,of External,Control",
+          "right arrow,H7,\uff08\u03b2=.57\uff09***",
+          "latent variables,Perceived Ease,of Use,R2=.39"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R=.28,Perceived,Usefulness",
+          "right arrow,H1,\uff08B=.30\uff09***",
+          "latent variables,Behavioural,Intention,R=.25"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived Ease,of Use,R2=.39",
+          "right arrow,H3,\uff08B=.29\uff09**,Statistical significance:*p<0.05\uff1b**p<0.01\uff1a***p<0.001",
+          "latent variables,Behavioural,Intention,R=.25"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,R=.28,Perceived,Usefulness",
+          "up arrow,H2,\uff08\u03b2=.31\uff09***",
+          "latent variables,Perceived Ease,of Use,R2=.39"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived Ease,of Use,R2=.39",
+          "up arrow,H2,\uff08\u03b2=.31\uff09***",
+          "latent variables,R=.28,Perceived,Usefulness"
+        ]
+      }
+    ],
+    "text": "The finding in the use of e-learning platform of a strong and significant relationship between perception of external control and perceived ease of use is noteworthy. This can be interpreted as an indication that users of these platforms prefer having control over the system. It is likely that students prefer to customise the platform environment. Thirdly, according to the previous literature, a significant relationship between perceived enjoyment and perceived ease of use and between result demonstrability and perceived usefulness is found."
+  },
+  {
+    "id": "303",
+    "object": [
+      {
+        "name": [
+          "latent variables,Service,quality",
+          "right arrow,0.844",
+          "latent variables,Customer,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Customer,satisfaction",
+          "right arrow,0.403",
+          "latent variables,Behavioral,intention"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Service,quality",
+          "right arrow,0.276",
+          "latent variables,Behavioral,intention"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ1",
+          "left arrow,0.783",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ2",
+          "left arrow,0.782,0.775,0.764,0.783",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ3",
+          "left arrow,0.775,0.764",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ4",
+          "left arrow,0.764",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ5",
+          "left arrow,0.719",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ6",
+          "left arrow,0.722,0.719",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ7",
+          "left arrow,0.735,0.492,0.719",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SQ8",
+          "left arrow,0.492",
+          "latent variables,Service,quality"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CS1",
+          "up arrow,0.775",
+          "latent variables,Customer,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,CS2",
+          "up arrow,0.759",
+          "latent variables,Customer,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Customer,satisfaction",
+          "up arrow,0.673",
+          "measured variable,CS3"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Customer,satisfaction",
+          "up arrow,0.711,0.673",
+          "measured variable,CS4"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Bl1,RMSEA=0.094,NFL=0.903,CFI=0.906,PGFl=0.644,PNFI=0.748",
+          "down arrow,0.846",
+          "latent variables,Behavioral,intention"
+        ]
+      }
+    ],
+    "text": "Since enough evidence was found to assess the construct valid ity of the measurement model, an SEM was used to analyze the model fit to the data and to test the proposed framework of service quality, customer satisfaction, and behavioral intention. Looking into relationships between latent variables, results proved the effect of sevice quality and customer satisfaction with a value of 0.844. Moreover, customer satisfaction significantly affected behavioral intention of the LRT users in the sample (estimate = 0.403). Additionally, service quality had a significant positive effect on behavioral intention (estimate = 0.276). With respect to the measurement of service quality, SQ1, SQ2 and SQ3 had the highest factor loads on this construct (estimates 0.783, 0.782, and 0.775, respectively). On the contrary, SQ8 showed the lowest factor load on service quality(estimate = 0.492)."
+  },
+  {
+    "id": "82",
+    "object": [
+      {
+        "name": [
+          "measured variable,Predictors,Team,interaction",
+          "right arrow,38",
+          "measured variable,Mediator,variables,22%,Patients,cooperation"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Predictors,Team,interaction",
+          "right arrow,.25,38",
+          "measured variable,Patient,11%,Adherence"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Predictors,Team,interaction",
+          "right arrow,34",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Predictors,Team,interaction",
+          "right arrow,32,.30,.17,.10,34",
+          "measured variable,67%,Treatment,acceptance"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Empathy",
+          "right arrow,32,.30,.17,.10,34",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Predictors,Team,interaction",
+          "right arrow,32,.30",
+          "measured variable,67%,Treatment,acceptance"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Empathy",
+          "right arrow,32,.30",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Empathy",
+          "right arrow,.17,.10",
+          "measured variable,67%,Treatment,acceptance"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SDM",
+          "right arrow,.15,34,32,.30,.17,.10",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SDM",
+          "right arrow,43",
+          "measured variable,Satisfaction,withdecision"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Patient,11%,Adherence",
+          "right arrow,.18",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Patient,11%,Adherence",
+          "right arrow,.18,.30,.15",
+          "measured variable,67%,Treatment,acceptance"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Satisfaction,withdecision",
+          "right arrow,.30,34",
+          "measured variable,outcomes,61%,Patient,satisfaction"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Satisfaction,withdecision",
+          "right arrow,18%,34",
+          "measured variable,67%,Treatment,acceptance"
+        ]
+      }
+    ],
+    "text": "For the \u2018\u2018Full path model\u2019\u2019, it can be summarized that the three predictors \u2018\u2018SDM\u2019\u2019, \u2018\u2018Team interaction\u2019\u2019 and \u2018\u2018Empathy\u2019\u2019 are positively and significantly correlated. A weak association is apparent between the variables \u2018\u2018SDM\u2019\u2019 and \u2018\u2018Team interaction\u2019\u2019 (r = .18), while a moderate effect is found between \u2018\u2018SDM\u2019\u2019 and \u2018\u2018Empathy\u2019\u2019 (r = .39), and a strong effect between \u2018\u2018Team interaction\u2019\u2019 and \u2018\u2018Empathy\u2019\u2019 (r = .46). Moreover, the constructs \u2018\u2018SDM\u2019\u2019, \u2018\u2018Team interaction\u2019\u2019, \u2018\u2018Empathy\u2019\u2019, \u2018\u2018Satisfaction with decision\u2019\u2019, \u2018\u2018Patient cooperation\u2019\u2019 and \u2018\u2018Adherence\u2019\u2019 predict the variance of the constructs \u2018\u2018Patient satisfaction\u2019\u2019 and \u2018\u2018Treatment acceptance\u2019\u2019 at 61% and 67%, respectively. \u2018\u2018SDM\u2019\u2019 can be predicted by \u2018\u2018Satisfaction with decision\u2019\u2019 (18%) and \u2018\u2018Patient cooperation\u2019\u2019 and \u2018\u2018Adherence\u2019\u2019 can be predicted by \u2018\u2018Team interaction\u2019\u2019, \u2018\u2018Empathy\u2019\u2019, and \u2018\u2018Satisfaction with decision\u2019\u2019 (22% and 11%, respectively). All direct paths from the construct \u2018\u2018Team interaction\u2019\u2019 to the criteria \u2018\u2018Patient satisfaction\u2019\u2019 (b = .34), \u2018\u2018Treatment acceptance\u2019\u2019 (b = .30) and \u2018\u2018Patients cooperation\u2019\u2019 (b= .38) and \"Adherence\"(b = .25) proved to be significant. The construct \u2018\u2018Empathy\u2019\u2019 significantly predicts \u2018\u2018Patient satisfaction\u2019\u2019 (b = .32) and \u2018\u2018Treatment acceptance\u2019\u2019 (b = .17) but does not provide any predictive value for the Patients cooperation and Adherence. In contrast, \u2018\u2018SDM\u2019\u2019 does not provide any direct predictive value for \u2018\u2018Treatment acceptance\u2019\u2019 and only influences the \u2018\u2018Patient satisfaction\u2019\u2019 to a small degree (b = .10), but is a significant predictor of \u2018\u2018Satisfaction with decision\u2019\u2019 (b = .43). \u2018\u2018Satisfaction with decision\u2019\u2019, in turn, has a high predictive value for \u2018\u2018Treatment acceptance\u2019\u2019 (b = .34), but does not provide any predictive value for \u2018\u2018Patient satisfaction\u2019\u2019 (b = .11), \u2018\u2018Patient cooperation\u2019\u2019 or \u2018\u2018Adherence\u2019\u2019. \u2018\u2018Adherence\u2019\u2019, however, significantly predicts the \u2018\u2018Patient satisfaction\u2019\u2019 (b = .18) and \u2018\u2018Treatment acceptance\u2019\u2019 (b = .15). Finally, in the framework of this model, for \u2018\u2018Patient cooperation\u2019\u2019, no significan predictive value is shown either for \u2018\u2018Patient satisfaction\u2019\u2019 or for \u2018\u2018Treatment acceptance\u2019\u2019."
+  },
+  {
+    "id": "287",
+    "object": [
+      {
+        "name": [
+          "latent variables,ELF",
+          "right arrow,.33",
+          "latent variables,ESP"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ESP",
+          "right arrow,.25",
+          "latent variables,aimsand,beliefs"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ESP",
+          "down arrow,41",
+          "latent variables,ENL"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ENL",
+          "down arrow,41",
+          "latent variables,ESP"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,ENL",
+          "right arrow,\uff1a54",
+          "latent variables,aimsand,beliefs"
+        ]
+      }
+    ],
+    "text": "The most important feature of our model is that the criterion measure, that is, aims and beliefs , is directly affected by all three latent concepts in the model: ELF, ESP and ENL. Contrary to our expectations, in the Hungarian context, ENL seems to have the strongest effect on aims and beliefs. The second most important impact on aims and beliefs is ELF. The third dimension affecting students\u2019 aims and beliefs is ESP with the lowest standardized estimate. In terms of the indirect impact on students\u2019 aims and beliefs, two links proved to be significant: First, ESP shapes aims and beliefs through ENL. Second, ELF exerts an indirect effect on both aims and beliefs as well as ENL through ESP. The absence of a direct link between ELF and ENL is another significant result. Observing the direction of the arrows in the model, we find that while ELF is influencing ESP, ENL is not. Instead the arrow is pointing in the opposite direction, indicating that ESP is shaping students\u2019 views of ENL."
+  },
+  {
+    "id": "202",
+    "object": [
+      {
+        "name": [
+          "latent variables,Brand,relationship,quality",
+          "down arrow,.23**,\uff0804\uff09",
+          "latent variables,Brand,community,identification,R2=.10"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Brand,community,identification,R2=.10",
+          "down arrow,.23**,\uff0804\uff09",
+          "latent variables,Brand,relationship,quality"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Brand,community,identification,R2=.10",
+          "right arrow,-1.99,\uff08.32\uff09",
+          "latent variables,Normative,community,pressure,R\u00b2=31"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Brand,community,identification,R2=.10",
+          "right arrow,\u6c34\uffe566,\uff08.06\uff09",
+          "latent variables,Community,engagement,R=.81"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Normative,community,pressure,R\u00b2=31",
+          "up arrow,2.06**,\uff0831\uff09",
+          "latent variables,Community,engagement,R=.81"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,engagement,R=.81",
+          "up arrow,2.06**,\uff0831\uff09",
+          "latent variables,Normative,community,pressure,R\u00b2=31"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Brand,relationship,quality",
+          "right arrow,\uff1a55*,\uff0807\uff09",
+          "latent variables,Brand,loyalty,intentions,R2=67"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Normative,community,pressure,R\u00b2=31",
+          "right arrow,.38**,\uff08.05\uff09",
+          "latent variables,Reactance,R=34"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Normative,community,pressure,R\u00b2=31",
+          "right arrow,1.12*,\uff08.07\uff09,-.13*,\uff0803\uff09",
+          "latent variables,Community,recommendation,intentions,R=.62"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Normative,community,pressure,R\u00b2=31",
+          "right arrow,.91*,\uff0807\uff09,-.14,\uff08.02\uff09,87*,\uff08.07\uff09,-.13*,\uff0803\uff09",
+          "latent variables,Community,participation,intentions,R=.86"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,engagement,R=.81",
+          "right arrow,1.12*,\uff08.07\uff09,.91*,\uff0807\uff09",
+          "latent variables,Membership,continuance,intentions,R=76"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,engagement,R=.81",
+          "right arrow,.91*,\uff0807\uff09",
+          "latent variables,Community,recommendation,intentions,R=.62"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,engagement,R=.81",
+          "right arrow,\uff08.06\uff09,87*",
+          "latent variables,Community,participation,intentions,R=.86"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Reactance,R=34",
+          "right arrow,-.55,\uff0809\uff09",
+          "latent variables,Brand,loyalty,intentions,R2=67"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Reactance,R=34",
+          "right arrow,-.26*,\uff08.08\uff09",
+          "latent variables,Membership,continuance,intentions,R=76"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Brand,loyalty,intentions,R2=67",
+          "up arrow,.26**,\uff0805\uff09",
+          "latent variables,Membership,continuance,intentions,R=76"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Membership,continuance,intentions,R=76",
+          "up arrow,.26**,\uff0805\uff09",
+          "latent variables,Brand,loyalty,intentions,R2=67"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Membership,continuance,intentions,R=76",
+          "right arrow,.24**,\uff0807\uff09",
+          "latent variables,Community,membership,duration,R=06"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,participation,intentions,R=.86",
+          "right arrow,.22,\uff0803\uff09",
+          "latent variables,Community,participation,behavior,R2=10"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Community,participation,intentions,R=.86",
+          "right arrow,.22,\uff0803\uff09",
+          "latent variables,Community,participation,behavior,R2=10"
+        ]
+      }
+    ],
+    "text": "We found that the impact of brand community identification on community engagement is strong and positive (\u03b2 = .99), and its impact on normative community pressure is significant and negative (\u03b2 = \u20131.99). Figure summarizes these and other results. Furthermore, as we predicted, community engagement influences normative pressure positively (\u03b2 = 2.06). Antecedents explain 81% of the variance in community engagement and 31% of the variance in normative community pressure. We found that the impact of normative community pressure on reactance is positive and significant (\u03b2 = .38), as we expected. In addition, 34% of the variance in reactance is explained. As we expected, normative community pressure has significant, negative effects on both community recommendation intentions (\u03b2 = \u2013.13) and community participation intentions (\u03b2 = \u2013.14) , but its effect on membership continuance intentions is not significant. The effects of community engagement on all three behavioral intentions\u2014membership continuance intentions (\u03b2 = 1.12), community recommendation intentions (\u03b2 = .91), and community participation intentions (\u03b2 = .87)\u2014 are significant. Moreover, reactance has a negative impact on membership continuance intentions (\u03b2 = \u2013.26). These results suggest that the negative effects of normative community pressure on membership continuance intentions are fully mediated by reactance. The percentages of variance in membership continuance intentions, community recommendation intentions, and community participation intentions, as explained by their respective antecedents, were 76%, 62%, and 86%, respectively. We predicted a negative impact of reactance on brand loyalty intentions (\u03b2 = \u2013.55). We found that brand relationship quality influences brand community identification significantly. Finally, membership continuance intentions influence brand loyalty intentions significantly (\u03b2 =.26). The antecedents of brand loyalty intentions explain 67% of the variance. Furthermore, we also found support for the other expected relationships, such as a positive impact of brand relationship quality on brand loyalty intentions."
+  },
+  {
+    "id": "317",
+    "object": [
+      {
+        "name": [
+          "measured variable,74,FamilySupport",
+          "left arrow,.86",
+          "latent variables,PSS"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,.59,FriendSupport",
+          "left arrow,.92",
+          "measured variable,Age,.00"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,84,OtherSupport",
+          "left arrow,.92",
+          "latent variables,PSS"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PSS",
+          "right arrow",
+          "latent variables,.19,Resilience"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,.19,Resilience",
+          "right arrow,46",
+          "latent variables,e12,38,PTG"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,e9,7.84,R1",
+          "up arrow",
+          "latent variables,.19,Resilience"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,.19,Resilience",
+          "up arrow,e11,.92",
+          "measured variable,e10,.85,R2"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Age,.00",
+          "right arrow,-08,-18,.08",
+          "latent variables,e12,38,PTG"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PSS",
+          "right arrow,-18,.08",
+          "measured variable,Employment,.00"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Gender,.00",
+          "right arrow,-18,.08",
+          "latent variables,e12,38,PTG"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Education,.00",
+          "up arrow,.08",
+          "latent variables,e12,38,PTG"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,e12,38,PTG",
+          "up arrow,-.03",
+          "measured variable,Employment,.00"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Employment,.00",
+          "up arrow,-.03",
+          "latent variables,e12,38,PTG"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,e12,38,PTG",
+          "right arrow,.82,55",
+          "measured variable,.30,Appreciation ofLife"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,e12,38,PTG",
+          "right arrow,.82",
+          "measured variable,.67,SpiritualChange"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,e12,38,PTG",
+          "right arrow,.91,.93",
+          "measured variable,.83,NewPossibilities"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,e12,38,PTG",
+          "right arrow,.91",
+          "measured variable,.52,RelatingtoOthers"
+        ]
+      }
+    ],
+    "text": "According to the model, PSS (\u03b2 = 0.20) and resilience (\u03b2 = 0.46) were significantly related to PTG. Additionally, PSS was significant related to resilience (\u03b2 = 0.44). The standardized indirect effect value of PSS on PTG through resilience was 0.203 (0.44 \u00d7 0.46). Additionally, gender was still significantly correlated with PTG (\u03b2 = \u22120.18)."
+  },
+  {
+    "id": "389",
+    "object": [
+      {
+        "name": [
+          "latent variables,SCPC",
+          "down arrow,0.81",
+          "latent variables,SA"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SA",
+          "down arrow,0.81",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SD",
+          "right arrow,0.62,0.83",
+          "latent variables,SE"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PS",
+          "up arrow,0.65",
+          "latent variables,SE"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SE",
+          "up arrow,0.65",
+          "latent variables,PS"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SD2",
+          "left arrow",
+          "latent variables,SD"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SD3",
+          "left arrow",
+          "latent variables,SD"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SD4",
+          "left arrow",
+          "latent variables,SD"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SD5",
+          "left arrow",
+          "latent variables,SD"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SCPC2",
+          "left arrow",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SCPC3",
+          "left arrow",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SAI",
+          "left arrow",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA2",
+          "left arrow",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SEI",
+          "left arrow",
+          "latent variables,SCPC"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA3",
+          "left arrow",
+          "latent variables,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA4",
+          "left arrow",
+          "latent variables,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA5",
+          "left arrow",
+          "latent variables,SA"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,SA6",
+          "left arrow",
+          "latent variables,SA"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PS",
+          "right arrow",
+          "measured variable,PS1"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PS",
+          "right arrow",
+          "measured variable,PS2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PS",
+          "right arrow",
+          "measured variable,PS3"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,PS",
+          "right arrow",
+          "measured variable,PS4"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SE",
+          "right arrow",
+          "measured variable,SE3"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SE",
+          "right arrow",
+          "measured variable,SE2"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SE",
+          "right arrow",
+          "measured variable,SE5"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,SE",
+          "right arrow",
+          "measured variable,SE3"
+        ]
+      }
+    ],
+    "text": "The hypothesis that obtaining adequate information on SCPC enables the understanding of SD was not supported as the relationship path between SCPC and SD with insignificant.  Similarly the paths between SA and PS with insignificant; SD and PS with insignificant; SCPC and PS with insignifican failed to support hypotheses which SA influences the overall impact of stakeholder management on construction PS, Understanding SD influences the overall impact of stakeholder management on construction PS, Obtaining adequate information on SCPC influences the impact of stakeholder management on construction PS, respectively. Conversely, the relationship path between SCPC and SA with path coefficient of 0.81 strongly supports hypothesis that obtaining adequate information on SCPC enables SA. Other hypotheses supported by the results include hypotheses which SA enables the understanding of SD, Understanding SD enables effective SE, Effective SE influences the impact of stakeholder management on construction PS. They are supported by the paths between SA and SD with acceptable path coefficient of 0.83; SD and SE with acceptable path coefficient of 0.62; and SE and PS with acceptable path coefficient of 0.65; respectively."
+  },
+  {
+    "id": "145",
+    "object": [
+      {
+        "name": [
+          "latent variables,Representational,fidelity",
+          "left arrow,0.874",
+          "latent variables,VRfeatures"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Immediacy of,controi",
+          "left arrow,0.823",
+          "latent variables,VRfeatures"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,usefulness",
+          "left arrow,0.924",
+          "latent variables,Usability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Perceived,ease of use",
+          "left arrow,.732",
+          "latent variables,Usability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VRfeatures",
+          "down arrow,0.894",
+          "latent variables,Usability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Usability",
+          "down arrow,0.894",
+          "latent variables,VRfeatures"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VRfeatures",
+          "right arrow,0.871",
+          "latent variables,Presence"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,VRfeatures",
+          "right arrow,0.835",
+          "latent variables,Perceived,enjoyment"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Usability",
+          "right arrow,0.985",
+          "latent variables,Controland,active,learning"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Usability",
+          "right arrow,0.968",
+          "latent variables,Cognitivevariables:,benefits"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Usability",
+          "right arrow,0.952",
+          "latent variables,Reflective,thinking"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Presence",
+          "right arrow,0.429",
+          "measured variable,Motivation effect"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Cognitivevariables:,benefits",
+          "right arrow,0.329",
+          "measured variable,Self-efficacyeffect"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Self-efficacyeffect",
+          "right arrow,0.579",
+          "measured variable,Learing"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Motivation effect",
+          "down arrow,0.278",
+          "measured variable,Self-efficacyeffect"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Self-efficacyeffect",
+          "down arrow,0.278",
+          "measured variable,Motivation effect"
+        ]
+      }
+    ],
+    "text": "VR features was a significant antecedent to usability (beta = 0.894). Furthermore, representational fidelity (beta = 0.874), and immediacy of control (beta = 0.823) had significant paths to VR features, indicating that the construct could be measured with these two variables. Finally, perceived usefulness (beta = 0.924), and perceived ease of use (beta = 0.732) had sig nificant paths to usability. VR features was only a significant antecedent to presence (beta = 0.871) and perceived enjoyment (beta = 0.835), but was not significantly related to control and active learning in the final model. Usability was a significant antecedent to control and active learning (beta = 0.985), but was not significantly related to presence or perceived enjoyment. VR features did not significantly predict cognitive benefits or reflective thinking, indicating that the representational fidelity and immediacy of control experienced in the VR genetics simulation were not related to student's perceptions of the cognitive benefits or their reflective thinking when using the simulation. As expected, usability was a significant antecedent to cognitive benefits (beta = 0.968), and reflective thinking (beta = 0.952) in this study. Presence was the only psychological variable that was a significant antecedent to motivation effect(beta = 0.429), but it did not directly predict self-efficacy effect or learning. Cognitive benefits was a significant antecedent to self-efficacy effect(beta = 0.329), but it did not directly predict motivation effect or learning. As expected, in this study the motivation effect was significantly related to the self-efficacy effect from prior to after the learning intervention (beta = 0.278). There was not a significant direct relationship between the motivation effect and students\u2019 learning. However, as can be seen in figure, the relationship between motivation effect and learning goes through self-efficacy effect. In this study an increase in self-efficacy effect was significantly related to learning (beta = 0.579)."
+  },
+  {
+    "id": "172",
+    "object": [
+      {
+        "name": [
+          "latent variables,Physical,Abuse",
+          "correlation",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sexual,Abuse",
+          "correlation",
+          "latent variables,Physical,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sexual,Abuse",
+          "correlation",
+          "latent variables,Emotional,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "correlation",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "correlation,12",
+          "latent variables,Caregiver,Instability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Caregiver,Instability",
+          "correlation,12",
+          "latent variables,Emotional,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Physical,Abuse",
+          "right arrow,-42",
+          "latent variables,Psychopathy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Physical,Abuse",
+          "right arrow,.16,-67,73,93",
+          "latent variables,D=81,Sexual,Inadequacy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "right arrow,.16,-67,73,93",
+          "latent variables,Psychopathy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sexual,Abuse",
+          "right arrow,.16",
+          "latent variables,Psychopathy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Physical,Abuse",
+          "right arrow,D=84,13,46,Psychopathy,.16",
+          "latent variables,Child,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sexual,Abuse",
+          "right arrow,D=84,13,46,Psychopathy,.16",
+          "latent variables,D=68,Sexual,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Sexual,Abuse",
+          "right arrow,.29,73",
+          "latent variables,Child,Victim,D=83"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "right arrow,.29,73",
+          "latent variables,Child,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "right arrow,.16,-67,73",
+          "latent variables,Psychopathy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Emotional,Abuse",
+          "right arrow,93",
+          "latent variables,D=81,Sexual,Inadequacy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Psychopathy",
+          "right arrow,46,.29",
+          "latent variables,Child,Victim,D=83"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=81,Sexual,Inadequacy",
+          "right arrow,46,.29",
+          "latent variables,D=68,Sexual,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=81,Sexual,Inadequacy",
+          "right arrow,.29",
+          "latent variables,Child,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Fantasy",
+          "down arrow,48",
+          "latent variables,Child,Victim,D=83"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Victim,D=83",
+          "down arrow,48",
+          "latent variables,Child,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=68,Sexual,Fantasy",
+          "down arrow,47,D=73",
+          "latent variables,Child,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Fantasy",
+          "down arrow,47,D=73",
+          "latent variables,D=68,Sexual,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Psychopathy",
+          "right arrow,40",
+          "latent variables,D=68,Sexual,Fantasy"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=64,Level",
+          "up arrow",
+          "latent variables,Physical,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Physical,Abuse",
+          "up arrow",
+          "measured variable,E=64,Level"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=.59,Frequency",
+          "up arrow",
+          "latent variables,Physical,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perpetrators,E=75",
+          "up arrow",
+          "measured variable,E=64,Level"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Perpetrators,E=75",
+          "left arrow",
+          "latent variables,Physical,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=.59,Level",
+          "left arrow",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Frequency,E=.73",
+          "left arrow",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=65,Force",
+          "left arrow,77",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=67,Perpetrators",
+          "left arrow",
+          "latent variables,Sexual,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Antipathy,E=81",
+          "left arrow",
+          "latent variables,Emotional,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Neglect,E=97",
+          "left arrow",
+          "latent variables,Emotional,Abuse"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Pateral,Soparations,E\u4e0991",
+          "down arrow",
+          "latent variables,Caregiver,Instability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Caregiver,Instability",
+          "down arrow",
+          "measured variable,Caregiver,Changes,E65"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Caregiver,Changes,E65",
+          "down arrow",
+          "latent variables,Caregiver,Instability"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Caregiver,Instability",
+          "down arrow",
+          "measured variable,Materal,Separations"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Erectile,Dysfunction,E90",
+          "down arrow",
+          "latent variables,D=81,Sexual,Inadequacy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=81,Sexual,Inadequacy",
+          "down arrow",
+          "measured variable,Sexual,Anxiety,E=63"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,Sexual,Anxiety,E=63",
+          "down arrow",
+          "latent variables,D=81,Sexual,Inadequacy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=81,Sexual,Inadequacy",
+          "down arrow",
+          "measured variable,Female,Anxiety,E=78"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Victim,D=83",
+          "right arrow,72",
+          "measured variable,Victim,Age,E=.69"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Victim,D=83",
+          "right arrow",
+          "measured variable,Victim,E=73,Sex"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Fantasy",
+          "right arrow",
+          "measured variable,Cognitive,E=84,Distortions"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Child,Fantasy",
+          "right arrow",
+          "measured variable,Sexual,Arousal,E=.63"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=68,Sexual,Fantasy",
+          "right arrow",
+          "measured variable,Sexual,Compulsivity,E=.34"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=68,Sexual,Fantasy",
+          "right arrow",
+          "measured variable,Hypersexuality,E=59"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,D=68,Sexual,Fantasy",
+          "right arrow",
+          "measured variable,Sexual,E=.61,Preoccupation"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Psychopathy",
+          "up arrow",
+          "measured variable,E=57,Pervasive,Anger"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=.69,Conning,Superficial Charm",
+          "up arrow",
+          "latent variables,Psychopathy"
+        ]
+      },
+      {
+        "name": [
+          "latent variables,Psychopathy",
+          "up arrow",
+          "measured variable,E=.69,Conning,Superficial Charm"
+        ]
+      },
+      {
+        "name": [
+          "measured variable,E=37,Impulsivity",
+          "up arrow",
+          "latent variables,Psychopathy"
+        ]
+      }
+    ],
+    "text": "Emotional abuse and physical abuse were found to be significant developmental antecedents for predicting psychopathy (\u03b2 = .73; \u03b2 = \u2013.42, respectively), which had a direct effect on sexual fantasy (\u03b2 = .40), which in turn predicted child fantasy (\u03b2 = .47). Child fantasy was related to child victim (\u03b2 = .48). Emotional abuse and physical abuse also directly predicted sexual inadequacy (\u03b2 = .93; \u03b2 = \u2013.67. Sexual inadequacy predicted both sexual fantasy (\u03b2 = .46) and child fantasy (\u03b2 = .29), which predicted the outcome variable child victim. Sexual abuse directly predicted sexual fantasy (\u03b2 = .13), which was related to child fantasy (\u03b2 = .47). Moreover, sexual abuse directly predicted the outcome variable child victim (\u03b2 = .21)."
+  },
+  {
+    "id": "355",
+    "object": {
+      "name": [
+        "latent variables,UTL",
+        "right arrow,0.530*,\uff0810.45\uff09",
+        "latent variables,PERF,R2=0.230"
+      ]
+    },
+    "text": "Model shows that the mediating variable UTL had significant effects on the criterion variable PERF (0.530, 10.45)."
+  }
+]
